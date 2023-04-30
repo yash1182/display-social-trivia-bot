@@ -1,0 +1,5 @@
+{"g_id":185,"game_type":"trivium","game_status":3,"prize_pool":2500.0,"num_winners":458,"share":5.46,"percent_correct":100}
+
+{"id":197,"g_id":185,"j":2500.0,"p_c":100,"s":3,"t":"trivium","max_q":10,"q":[{"id":1104,"nth":1,"time":0,"is_a":false,"t":"multiple_choice","q":"What is the last name of your display trivia host?","a":[{"id":3346,"a":"Pribis"},{"id":3347,"a":"Winfrey"},{"id":3348,"a":"Kardashian"}]}]}
+
+{"id":197,"g_id":185,"s":2,"t":"results","q":[{"id":1113,"q_c":"The largest building by volume in the world is associated with which corporation?","is_a":false,"nth":10,"a":[{"id":3373,"a_c":"Amazon","t":67,"p":"5.73","c":false},{"id":3374,"a_c":"Boeing","t":1069,"p":"91.45","c":true},{"id":3375,"a_c":"Ikea","t":33,"p":"2.82","c":false}]}]}"

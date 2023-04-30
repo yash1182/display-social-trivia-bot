@@ -1,0 +1,3799 @@
+<!DOCTYPE html>
+<html lang="en-IN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta content="origin" name="referrer" />
+    <meta
+      content="/images/branding/googleg/1x/googleg_standard_color_128dp.png"
+      itemprop="image"
+    />
+    <title>
+      the greek drama masks represent all of the following figures (Melpomene OR
+      polyhymnia OR thalia) - Google Search
+    </title>
+    <script nonce="2a_C1WLNDB0JVp66ob93Wg">
+      (function () {
+        document.documentElement.addEventListener(
+          "submit",
+          function (b) {
+            var a;
+            if ((a = b.target)) {
+              var c = a.getAttribute("data-submitfalse");
+              a = "1" === c || ("q" === c && !a.elements.q.value) ? !0 : !1;
+            } else a = !1;
+            a && (b.preventDefault(), b.stopPropagation());
+          },
+          !0
+        );
+        document.documentElement.addEventListener(
+          "click",
+          function (b) {
+            var a;
+            a: {
+              for (
+                a = b.target;
+                a && a !== document.documentElement;
+                a = a.parentElement
+              )
+                if ("A" === a.tagName) {
+                  a = "1" === a.getAttribute("data-nohref");
+                  break a;
+                }
+              a = !1;
+            }
+            a && b.preventDefault();
+          },
+          !0
+        );
+      }.call(this));
+      (function () {
+        var a = window.performance;
+        window.start = Date.now();
+        a: {
+          var b = window;
+          if (a) {
+            var c = a.timing;
+            if (c) {
+              var d = c.navigationStart,
+                f = c.responseStart;
+              if (f > d && f <= window.start) {
+                window.start = f;
+                b.wsrt = f - d;
+                break a;
+              }
+            }
+            a.now && (b.wsrt = Math.floor(a.now()));
+          }
+        }
+        window.google = window.google || {};
+        var h = function (g) {
+          g && g.target.setAttribute("data-iml", Date.now());
+        };
+        document.documentElement.addEventListener("load", h, !0);
+        google.rglh = function () {
+          document.documentElement.removeEventListener("load", h, !0);
+        };
+      }.call(this));
+      (function () {
+        window.google.erd = { jsr: 1, bv: 1595, sd: true, de: true };
+      })();
+      (function () {
+        var sdo = false;
+        var mei = 10;
+        var f = this || self;
+        var g,
+          h = null != (g = f.mei) ? g : 1,
+          m,
+          n = null != (m = f.sdo) ? m : !0,
+          p = 0,
+          q,
+          r = google.erd,
+          u = r.jsr;
+        google.ml = function (a, b, d, k, c) {
+          c = void 0 === c ? 2 : c;
+          b && (q = a && a.message);
+          if (google.dl) return google.dl(a, c, d), null;
+          if (0 > u) {
+            window.console && console.error(a, d);
+            if (-2 === u) throw a;
+            b = !1;
+          } else
+            b =
+              !a ||
+              !a.message ||
+              "Error loading script" === a.message ||
+              (p >= h && !k)
+                ? !1
+                : !0;
+          if (!b) return null;
+          p++;
+          d = d || {};
+          var e = c;
+          c = encodeURIComponent;
+          b = "/gen_204?atyp=i&ei=" + c(google.kEI);
+          google.kEXPI && (b += "&jexpid=" + c(google.kEXPI));
+          b +=
+            "&srcpg=" +
+            c(google.sn) +
+            "&jsr=" +
+            c(r.jsr) +
+            "&bver=" +
+            c(r.bv) +
+            ("&jsel=" + e);
+          e = a.lineNumber;
+          void 0 !== e && (b += "&line=" + e);
+          var l = a.fileName;
+          l &&
+            ((b += "&script=" + c(l)),
+            e &&
+              l === window.location.href &&
+              ((e = document.documentElement.outerHTML.split("\n")[e]),
+              (b +=
+                "&cad=" + c(e ? e.substring(0, 300) : "No script found."))));
+          for (var t in d) (b += "&"), (b += c(t)), (b += "="), (b += c(d[t]));
+          b = b + "&emsg=" + c(a.name + ": " + a.message);
+          b = b + "&jsst=" + c(a.stack || "N/A");
+          12288 <= b.length && (b = b.substr(0, 12288));
+          a = b;
+          k || google.log(0, "", a);
+          return a;
+        };
+        window.onerror = function (a, b, d, k, c) {
+          q !== a &&
+            ((a = c instanceof Error ? c : Error(a)),
+            void 0 === d || "lineNumber" in a || (a.lineNumber = d),
+            void 0 === b || "fileName" in a || (a.fileName = b),
+            google.ml(
+              a,
+              !1,
+              void 0,
+              !1,
+              "SyntaxError" === a.name ||
+                "SyntaxError" === a.message.substring(0, 11)
+                ? 2
+                : 0
+            ));
+          q = null;
+          n && p >= h && (window.onerror = null);
+        };
+      })();
+      (function () {
+        var c = [],
+          e = 0;
+        window.ping = function (b) {
+          -1 == b.indexOf("&zx") && (b += "&zx=" + Date.now());
+          var a = new Image(),
+            d = e++;
+          c[d] = a;
+          a.onerror =
+            a.onload =
+            a.onabort =
+              function () {
+                delete c[d];
+              };
+          a.src = b;
+        };
+      }.call(this));
+    </script>
+    <style>
+      body {
+        margin: 0 auto;
+        max-width: 652px;
+        padding: 0 8px;
+      }
+      a {
+        color: #1a0dab;
+        text-decoration: none;
+        -webkit-tap-highlight-color: rgba(0, 0, 0, 0.1);
+      }
+      a:visited {
+        color: #4b11a8;
+      }
+      a:hover {
+        text-decoration: underline;
+      }
+      img {
+        border: 0;
+      }
+      html {
+        font-family: Roboto, Helvetica Neue, Arial, sans-serif;
+        font-size: 14px;
+        line-height: 20px;
+        -webkit-text-size-adjust: 100%;
+        color: #3c4043;
+        word-wrap: break-word;
+        background-color: #fff;
+      }
+      .bRsWnc {
+        background-color: #fff;
+        border-top: 1px solid #dadce0;
+        height: 39px;
+        overflow: hidden;
+      }
+      .N6RWV {
+        height: 51px;
+        -webkit-overflow-scrolling: touch;
+        overflow-x: auto;
+        overflow-y: hidden;
+      }
+      .Uv67qb {
+        -webkit-box-pack: justify;
+        font-size: 12px;
+        line-height: 37px;
+        justify-content: space-between;
+        justify-content: space-between;
+      }
+      .Uv67qb a,
+      .Uv67qb span {
+        color: #70757a;
+        display: block;
+        flex: none;
+        padding: 0 16px;
+        text-align: center;
+        text-transform: uppercase;
+      }
+      span.OXXup {
+        border-bottom: 2px solid #4285f4;
+        color: #4285f4;
+        font-weight: bold;
+      }
+      a.eZt8xd:visited {
+        color: #70757a;
+      }
+      .FElbsf {
+        border-left: 1px solid rgba(0, 0, 0, 0.12);
+      }
+      header article {
+        overflow: visible;
+      }
+      .Pg70bf {
+        height: 39px;
+        display: -webkit-box;
+        display: flex;
+        display: flex;
+        width: 100%;
+      }
+      .H0PQec {
+        position: relative;
+        flex: 1;
+      }
+      .sbc {
+        display: flex;
+        width: 100%;
+      }
+      .Pg70bf input {
+        margin: 2px 4px 2px 8px;
+      }
+      .x {
+        width: 26px;
+        color: #70757a;
+        font: 27px/38px arial, sans-serif;
+        line-height: 40px;
+      }
+      #qdClwb {
+        flex: 0 0 auto;
+        width: 39px;
+        height: 39px;
+        border-bottom: 0;
+        padding: 0;
+        border-top-right-radius: 8px;
+        background-color: #1a73e8;
+        border: 1px solid #1558d6;
+        background-image: url('data:image/svg+xml,\00003csvg height="37px" width="37px" xmlns="http://www.w3.org/2000/svg">\00003cg fill="none" stroke="%23fff">\00003cellipse cx="16.5" cy="16" rx="5.4" ry="5.4" stroke-width="2px">\00003c/ellipse>\00003cpath d="M22 21.3l4.3 4.3" stroke-linecap="round" stroke-width="2px">\00003c/path>\00003c/g>\00003c/svg>');
+      }
+      .sc {
+        font-size: 16px;
+        position: absolute;
+        top: 39px;
+        left: 0;
+        right: 0;
+        box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+        z-index: 2;
+        background-color: #fff;
+      }
+      .sc > div {
+        padding: 10px 10px;
+        padding-left: 16px;
+        padding-left: 14px;
+        border-top: 1px solid #dfe1e5;
+      }
+      .scs {
+        background-color: #f8f9fa;
+      }
+      .noHIxc {
+        display: block;
+        font-size: 16px;
+        padding: 0 0 0 8px;
+        flex: 1;
+        height: 35px;
+        outline: none;
+        border: none;
+        width: 100%;
+        -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+        overflow: hidden;
+      }
+      .sbc input[type="text"] {
+        background: none;
+      }
+      .sml .cOl4Id {
+        display: none;
+      }
+      .l {
+        display: none;
+      }
+      .l svg {
+        margin-top: 9px;
+      }
+      .sml header {
+        background: none;
+      }
+      .sml .l {
+        display: block;
+        padding: 0 8px;
+      }
+      .bz1lBb {
+        background: #fff;
+        border-radius: 8px 8px 0 0;
+        box-shadow: 0 0 0 1px #dfe1e5;
+        margin-top: 24px;
+      }
+      .KP7LCb {
+        border-radius: 0 0 8px 8px;
+        box-shadow: 0px 1px 0px 1px #dfe1e5;
+        margin-bottom: 30px;
+        overflow: hidden;
+      }
+      body {
+        margin: 0 auto 0 156px;
+        max-width: 652px;
+        min-width: 652px;
+      }
+      .cOl4Id {
+        text-align: center;
+        height: 35px;
+        padding: 32px 28px 0 24px;
+        position: absolute;
+        left: 0;
+        top: 0;
+      }
+      footer {
+        text-align: center;
+        margin-top: 18px;
+      }
+      footer a,
+      footer a:visited,
+      .smiUbb {
+        color: #70757a;
+      }
+      .xeDNfc {
+        margin: 0 13px;
+      }
+      #EOlPnc {
+        margin-top: 36px;
+      }
+      #EOlPnc > div {
+        margin: 20px;
+      }
+      .Srfpq {
+        color: #70757a;
+      }
+    </style>
+  </head>
+  <body jsmodel="hspDDf">
+    <header id="hdr">
+      <script nonce="2a_C1WLNDB0JVp66ob93Wg">
+        (function () {
+          var k = this || self,
+            l = function (a) {
+              var b = typeof a;
+              return ("object" == b && null != a) || "function" == b;
+            },
+            m = function (a, b) {
+              function c() {}
+              c.prototype = b.prototype;
+              a.j = b.prototype;
+              a.prototype = new c();
+              a.prototype.constructor = a;
+              a.l = function (d, e, f) {
+                for (
+                  var g = Array(arguments.length - 2), h = 2;
+                  h < arguments.length;
+                  h++
+                )
+                  g[h - 2] = arguments[h];
+                return b.prototype[e].apply(d, g);
+              };
+            };
+          var n = Array.prototype.indexOf
+            ? function (a, b) {
+                return Array.prototype.indexOf.call(a, b, void 0);
+              }
+            : function (a, b) {
+                if ("string" === typeof a)
+                  return "string" !== typeof b || 1 != b.length
+                    ? -1
+                    : a.indexOf(b, 0);
+                for (var c = 0; c < a.length; c++)
+                  if (c in a && a[c] === b) return c;
+                return -1;
+              };
+          var p = function (a) {
+              return "string" == typeof a.className
+                ? a.className
+                : (a.getAttribute && a.getAttribute("class")) || "";
+            },
+            q = function (a, b) {
+              "string" == typeof a.className
+                ? (a.className = b)
+                : a.setAttribute && a.setAttribute("class", b);
+            },
+            r = function (a, b) {
+              a.classList
+                ? (b = a.classList.contains(b))
+                : ((a = a.classList ? a.classList : p(a).match(/\S+/g) || []),
+                  (b = 0 <= n(a, b)));
+              return b;
+            },
+            v = function () {
+              var a = t,
+                b = u;
+              a.classList
+                ? a.classList.remove(b)
+                : r(a, b) &&
+                  q(
+                    a,
+                    Array.prototype.filter
+                      .call(
+                        a.classList ? a.classList : p(a).match(/\S+/g) || [],
+                        function (c) {
+                          return c != b;
+                        }
+                      )
+                      .join(" ")
+                  );
+            };
+          function w() {
+            var a = k.navigator;
+            return a && (a = a.userAgent) ? a : "";
+          }
+          var x = function (a) {
+            x[" "](a);
+            return a;
+          };
+          x[" "] = function () {};
+          var y =
+            -1 != w().indexOf("Gecko") &&
+            !(
+              -1 != w().toLowerCase().indexOf("webkit") &&
+              -1 == w().indexOf("Edge")
+            ) &&
+            !(-1 != w().indexOf("Trident") || -1 != w().indexOf("MSIE")) &&
+            -1 == w().indexOf("Edge");
+          var z = function (a, b) {
+            this.type = a;
+            this.target = b;
+          };
+          z.prototype.g = function () {};
+          var A = (function () {
+            if (!k.addEventListener || !Object.defineProperty) return !1;
+            var a = !1,
+              b = Object.defineProperty({}, "passive", {
+                get: function () {
+                  a = !0;
+                },
+              });
+            try {
+              k.addEventListener("test", function () {}, b),
+                k.removeEventListener("test", function () {}, b);
+            } catch (c) {}
+            return a;
+          })();
+          var C = function (a) {
+            z.call(this, a ? a.type : "");
+            this.relatedTarget = this.target = null;
+            this.button =
+              this.screenY =
+              this.screenX =
+              this.clientY =
+              this.clientX =
+                0;
+            this.key = "";
+            this.keyCode = 0;
+            this.metaKey = this.shiftKey = this.altKey = this.ctrlKey = !1;
+            this.state = null;
+            this.pointerId = 0;
+            this.pointerType = "";
+            this.h = null;
+            if (a) {
+              var b = (this.type = a.type),
+                c =
+                  a.changedTouches && a.changedTouches.length
+                    ? a.changedTouches[0]
+                    : null;
+              this.target = a.target || a.srcElement;
+              var d = a.relatedTarget;
+              if (d) {
+                if (y) {
+                  a: {
+                    try {
+                      x(d.nodeName);
+                      var e = !0;
+                      break a;
+                    } catch (f) {}
+                    e = !1;
+                  }
+                  e || (d = null);
+                }
+              } else
+                "mouseover" == b
+                  ? (d = a.fromElement)
+                  : "mouseout" == b && (d = a.toElement);
+              this.relatedTarget = d;
+              c
+                ? ((this.clientX = void 0 !== c.clientX ? c.clientX : c.pageX),
+                  (this.clientY = void 0 !== c.clientY ? c.clientY : c.pageY),
+                  (this.screenX = c.screenX || 0),
+                  (this.screenY = c.screenY || 0))
+                : ((this.clientX = void 0 !== a.clientX ? a.clientX : a.pageX),
+                  (this.clientY = void 0 !== a.clientY ? a.clientY : a.pageY),
+                  (this.screenX = a.screenX || 0),
+                  (this.screenY = a.screenY || 0));
+              this.button = a.button;
+              this.keyCode = a.keyCode || 0;
+              this.key = a.key || "";
+              this.ctrlKey = a.ctrlKey;
+              this.altKey = a.altKey;
+              this.shiftKey = a.shiftKey;
+              this.metaKey = a.metaKey;
+              this.pointerId = a.pointerId || 0;
+              this.pointerType =
+                "string" === typeof a.pointerType
+                  ? a.pointerType
+                  : B[a.pointerType] || "";
+              this.state = a.state;
+              this.h = a;
+              a.defaultPrevented && C.j.g.call(this);
+            }
+          };
+          m(C, z);
+          var B = { 2: "touch", 3: "pen", 4: "mouse" };
+          C.prototype.g = function () {
+            C.j.g.call(this);
+            var a = this.h;
+            a.preventDefault ? a.preventDefault() : (a.returnValue = !1);
+          };
+          var D = "closure_listenable_" + ((1e6 * Math.random()) | 0);
+          var E = 0;
+          var F = function (a, b, c, d, e) {
+              this.listener = a;
+              this.proxy = null;
+              this.src = b;
+              this.type = c;
+              this.capture = !!d;
+              this.h = e;
+              this.key = ++E;
+              this.g = this.i = !1;
+            },
+            G = function (a) {
+              a.g = !0;
+              a.listener = null;
+              a.proxy = null;
+              a.src = null;
+              a.h = null;
+            };
+          var H = function (a) {
+            this.src = a;
+            this.g = {};
+            this.h = 0;
+          };
+          H.prototype.add = function (a, b, c, d, e) {
+            var f = a.toString();
+            a = this.g[f];
+            a || ((a = this.g[f] = []), this.h++);
+            var g;
+            a: {
+              for (g = 0; g < a.length; ++g) {
+                var h = a[g];
+                if (!h.g && h.listener == b && h.capture == !!d && h.h == e)
+                  break a;
+              }
+              g = -1;
+            }
+            -1 < g
+              ? ((b = a[g]), c || (b.i = !1))
+              : ((b = new F(b, this.src, f, !!d, e)), (b.i = c), a.push(b));
+            return b;
+          };
+          var I = "closure_lm_" + ((1e6 * Math.random()) | 0),
+            J = {},
+            K = 0,
+            M = function (a, b, c, d, e) {
+              if (d && d.once) return L(a, b, c, d, e);
+              if (Array.isArray(b)) {
+                for (var f = 0; f < b.length; f++) M(a, b[f], c, d, e);
+                return null;
+              }
+              c = N(c);
+              return a && a[D]
+                ? a.g(b, c, l(d) ? !!d.capture : !!d, e)
+                : O(a, b, c, !1, d, e);
+            },
+            O = function (a, b, c, d, e, f) {
+              if (!b) throw Error("a");
+              var g = l(e) ? !!e.capture : !!e,
+                h = P(a);
+              h || (a[I] = h = new H(a));
+              c = h.add(b, c, d, g, f);
+              if (c.proxy) return c;
+              d = Q();
+              c.proxy = d;
+              d.src = a;
+              d.listener = c;
+              if (a.addEventListener)
+                A || (e = g),
+                  void 0 === e && (e = !1),
+                  a.addEventListener(b.toString(), d, e);
+              else if (a.attachEvent) a.attachEvent(R(b.toString()), d);
+              else if (a.addListener && a.removeListener) a.addListener(d);
+              else throw Error("b");
+              K++;
+              return c;
+            },
+            Q = function () {
+              var a = S,
+                b = function (c) {
+                  return a.call(b.src, b.listener, c);
+                };
+              return b;
+            },
+            L = function (a, b, c, d, e) {
+              if (Array.isArray(b)) {
+                for (var f = 0; f < b.length; f++) L(a, b[f], c, d, e);
+                return null;
+              }
+              c = N(c);
+              return a && a[D]
+                ? a.h(b, c, l(d) ? !!d.capture : !!d, e)
+                : O(a, b, c, !0, d, e);
+            },
+            T = function (a) {
+              if ("number" !== typeof a && a && !a.g) {
+                var b = a.src;
+                if (b && b[D]) b.o(a);
+                else {
+                  var c = a.type,
+                    d = a.proxy;
+                  b.removeEventListener
+                    ? b.removeEventListener(c, d, a.capture)
+                    : b.detachEvent
+                    ? b.detachEvent(R(c), d)
+                    : b.addListener && b.removeListener && b.removeListener(d);
+                  K--;
+                  if ((c = P(b))) {
+                    d = a.type;
+                    if (d in c.g) {
+                      var e = c.g[d],
+                        f = n(e, a),
+                        g;
+                      (g = 0 <= f) && Array.prototype.splice.call(e, f, 1);
+                      g && (G(a), 0 == c.g[d].length && (delete c.g[d], c.h--));
+                    }
+                    0 == c.h && ((c.src = null), (b[I] = null));
+                  } else G(a);
+                }
+              }
+            },
+            R = function (a) {
+              return a in J ? J[a] : (J[a] = "on" + a);
+            },
+            S = function (a, b) {
+              if (a.g) a = !0;
+              else {
+                b = new C(b, this);
+                var c = a.listener,
+                  d = a.h || a.src;
+                a.i && T(a);
+                a = c.call(d, b);
+              }
+              return a;
+            },
+            P = function (a) {
+              a = a[I];
+              return a instanceof H ? a : null;
+            },
+            U = "__closure_events_fn_" + ((1e9 * Math.random()) >>> 0),
+            N = function (a) {
+              if ("function" === typeof a) return a;
+              a[U] ||
+                (a[U] = function (b) {
+                  return a.handleEvent(b);
+                });
+              return a[U];
+            };
+          var u,
+            t = document.documentElement,
+            V;
+          function W() {
+            T(V);
+            V = L(
+              t,
+              "mousedown",
+              function () {
+                v();
+                X();
+              },
+              { capture: !0 }
+            );
+          }
+          function X() {
+            T(V);
+            V = M(t, "keydown", function (a) {
+              if (9 === a.keyCode) {
+                a = t;
+                var b = u;
+                if (a.classList) a.classList.add(b);
+                else if (!r(a, b)) {
+                  var c = p(a);
+                  q(a, c + (0 < c.length ? " " + b : b));
+                }
+                W();
+              }
+            });
+          }
+          u = "zAoYTe";
+          X();
+        }.call(this));
+        (function () {
+          var c = 500;
+          (function () {
+            window.screen &&
+              window.screen.width <= c &&
+              window.screen.height <= c &&
+              document.getElementById("hdr").classList.add("sml");
+          }.call(this));
+        })();
+      </script>
+      <div class="cOl4Id">
+        <a href="/?sa=X&amp;ved=0ahUKEwjkwN_BpZH4AhW2TWwGHUiCCcgQOwgC"
+          ><svg
+            stroke="#4285f4"
+            aria-label="Google"
+            fill="none"
+            height="36"
+            stroke-width="18"
+            viewbox="0 0 520 174"
+            width="92"
+          >
+            <path
+              d="M69 70.4l61 0m-9 3.5a56 57 0 1 1-17-47"
+              stroke-width="19px"
+            ></path>
+            <ellipse
+              stroke="#ea4335"
+              cx="179"
+              cy="90"
+              rx="33"
+              ry="34"
+            ></ellipse>
+            <ellipse
+              stroke="#fbbc04"
+              cx="270"
+              cy="90"
+              rx="33"
+              ry="34"
+            ></ellipse>
+            <ellipse
+              cx="358"
+              cy="90"
+              rx="32"
+              ry="34"
+              stroke-width="17px"
+            ></ellipse>
+            <path d="M391 49l0 73l-2 0a 22 22-30 0 1-59 24"></path>
+            <path style="stroke: #34a853" d="M423 5l0 130"></path>
+            <path
+              stroke="#ea4335"
+              d="M509 110a32 35-3 1 1 3-29M517 76l-63 24"
+              stroke-width="16px"
+            ></path></svg
+        ></a>
+      </div>
+      <div class="bz1lBb">
+        <form class="Pg70bf" id="sf">
+          <a
+            class="l"
+            href="/?output=search&amp;sa=X&amp;ved=0ahUKEwjkwN_BpZH4AhW2TWwGHUiCCcgQPAgE"
+            ><svg
+              stroke="#4285f4"
+              aria-label="Google"
+              fill="none"
+              height="22"
+              stroke-width="18"
+              viewbox="0 0 520 174"
+              width="66"
+            >
+              <ellipse
+                stroke="#ea4335"
+                cx="179"
+                cy="90"
+                rx="33"
+                ry="34"
+              ></ellipse>
+              <ellipse
+                stroke="#fbbc04"
+                cx="270"
+                cy="90"
+                rx="33"
+                ry="34"
+              ></ellipse>
+              <ellipse cx="359" cy="90" rx="31" ry="34"></ellipse>
+              <path
+                d="M69 70l61 0m-9 4a56 57 0 1 1-17-47M391 49l0 72l-2 0a 16 17 24 0 1-58 24"
+              ></path>
+              <path stroke="#34a853" d="M423 5l0 130"></path>
+              <path
+                stroke="#ea4335"
+                d="M509 110a32 35-3 1 1 3-29M517 76l-63 24"
+              ></path></svg
+          ></a>
+          <div class="H0PQec">
+            <div class="sbc esbc">
+              <input
+                class="noHIxc"
+                value="the greek drama masks represent all of the following figures (Melpomene OR polyhymnia OR thalia)"
+                autocapitalize="none"
+                autocomplete="off"
+                name="q"
+                spellcheck="false"
+                type="text"
+              /><input name="oq" type="hidden" /><input
+                name="aqs"
+                type="hidden"
+              />
+              <div class="x">�</div>
+              <div class="sc"></div>
+            </div>
+          </div>
+          <button id="qdClwb" type="submit"></button>
+        </form>
+      </div>
+      <noscript
+        ><meta
+          content="0;url=/search?q=the+greek+drama+masks+represent+all+of+the+following+figures+(Melpomene+OR+polyhymnia+OR+thalia)&amp;gbv=1&amp;sei=2f-ZYqTwK7abseMPyISmwAw"
+          http-equiv="refresh"
+        /><style>
+          table,
+          div,
+          span,
+          p {
+            display: none;
+          }
+        </style>
+        <div style="display: block">
+          Please click
+          <a
+            href="/search?q=the+greek+drama+masks+represent+all+of+the+following+figures+(Melpomene+OR+polyhymnia+OR+thalia)&amp;gbv=1&amp;sei=2f-ZYqTwK7abseMPyISmwAw"
+            >here</a
+          >
+          if you are not redirected within a few seconds.
+        </div></noscript
+      >
+    </header>
+    <div id="main">
+      <div>
+        <div class="KP7LCb">
+          <div class="bRsWnc">
+            <div class="N6RWV">
+              <div class="Pg70bf Uv67qb">
+                <span class="OXXup">All</span
+                ><a
+                  class="eZt8xd"
+                  href="/search?q=the+greek+drama+masks+represent+all+of+the+following+figures+(Melpomene+OR+polyhymnia+OR+thalia)&amp;source=lnms&amp;tbm=shop&amp;sa=X&amp;ved=0ahUKEwjkwN_BpZH4AhW2TWwGHUiCCcgQ_AUICCgB"
+                  >Shopping</a
+                ><a
+                  class="eZt8xd"
+                  href="/search?q=the+greek+drama+masks+represent+all+of+the+following+figures+(Melpomene+OR+polyhymnia+OR+thalia)&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=0ahUKEwjkwN_BpZH4AhW2TWwGHUiCCcgQ_AUICSgC"
+                  >Images</a
+                ><a
+                  class="eZt8xd"
+                  href="/search?q=the+greek+drama+masks+represent+all+of+the+following+figures+(Melpomene+OR+polyhymnia+OR+thalia)&amp;source=lnms&amp;tbm=nws&amp;sa=X&amp;ved=0ahUKEwjkwN_BpZH4AhW2TWwGHUiCCcgQ_AUICigD"
+                  >News</a
+                >
+                <a
+                  href="https://maps.google.com/maps?q=the+greek+drama+masks+represent+all+of+the+following+figures+(Melpomene+OR+polyhymnia+OR+thalia)&amp;um=1&amp;ie=UTF-8&amp;sa=X&amp;ved=0ahUKEwjkwN_BpZH4AhW2TWwGHUiCCcgQ_AUICygE"
+                  >Maps</a
+                >
+                <a
+                  href="/search?q=the+greek+drama+masks+represent+all+of+the+following+figures+(Melpomene+OR+polyhymnia+OR+thalia)&amp;source=lnms&amp;tbm=vid&amp;sa=X&amp;ved=0ahUKEwjkwN_BpZH4AhW2TWwGHUiCCcgQ_AUIDCgF"
+                  >Videos</a
+                >
+                <a
+                  href="/search?q=the+greek+drama+masks+represent+all+of+the+following+figures+(Melpomene+OR+polyhymnia+OR+thalia)&amp;source=lnms&amp;tbm=bks&amp;sa=X&amp;ved=0ahUKEwjkwN_BpZH4AhW2TWwGHUiCCcgQ_AUIDSgG"
+                  >Books</a
+                >
+                <div class="FElbsf">
+                  <a
+                    href="/advanced_search"
+                    style="white-space: nowrap"
+                    id="st-toggle"
+                    role="button"
+                    >Search tools</a
+                  >
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="Pg70bf wEsjbd ZINbbc xpd O9g5cc uUPGi"
+          style="display: none"
+          id="st-card"
+        >
+          <style>
+            .wEsjbd {
+              background-color: #fff;
+              height: 44px;
+              white-space: nowrap;
+            }
+            .coPU8c {
+              height: 60px;
+              -webkit-overflow-scrolling: touch;
+              overflow-x: auto;
+              overflow-y: hidden;
+            }
+            .Xj2aue {
+              height: 44px;
+              overflow: hidden;
+            }
+            .RnNGze {
+              margin: 11px 16px;
+            }
+            .wEsjbd div,
+            .wEsjbd a,
+            .wEsjbd li {
+              outline-width: 0;
+              outline: none;
+            }
+          </style>
+          <div class="Xj2aue">
+            <div class="coPU8c">
+              <div class="RnNGze">
+                <style>
+                  .PA9J5 {
+                    display: inline-block;
+                  }
+                  .RXaOfd {
+                    display: inline-block;
+                    height: 22px;
+                    position: relative;
+                    padding-top: 0;
+                    padding-bottom: 0;
+                    padding-right: 16px;
+                    padding-left: 0;
+                    line-height: 22px;
+                    cursor: pointer;
+                    text-transform: uppercase;
+                    font-size: 12px;
+                    color: #70757a;
+                  }
+                  .sa1toc {
+                    display: none;
+                    position: absolute;
+                    background: #fff;
+                    border: 1px solid #d6d6d6;
+                    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+                    margin: 0;
+                    white-space: nowrap;
+                    z-index: 103;
+                    line-height: 17px;
+                    padding-top: 5px;
+                    padding-bottom: 5px;
+                    padding-left: 0;
+                  }
+                  .PA9J5:hover .sa1toc {
+                    display: block;
+                  }
+                  .mGSy8d a:active,
+                  .RXaOfd:active {
+                    color: #4285f4;
+                  }
+                </style>
+                <div class="PA9J5">
+                  <div class="RXaOfd" role="button" tabindex="0">
+                    <style>
+                      .TWMOUc {
+                        display: inline-block;
+                        padding-right: 14px;
+                        white-space: nowrap;
+                      }
+                      .vQYuGf {
+                        font-weight: bold;
+                      }
+                      .OmTIzf {
+                        border-color: #909090 transparent;
+                        border-style: solid;
+                        border-width: 4px 4px 0 4px;
+                        width: 0;
+                        height: 0;
+                        margin-left: -10px;
+                        top: 50%;
+                        margin-top: -2px;
+                        position: absolute;
+                      }
+                      .RXaOfd:active .OmTIzf {
+                        border-color: #4285f4 transparent;
+                      }
+                    </style>
+                    <div class="TWMOUc">Any time</div>
+                    <span class="OmTIzf"></span>
+                  </div>
+                  <ul class="sa1toc ozatM">
+                    <style>
+                      .ozatM {
+                        font-size: 12px;
+                        text-transform: uppercase;
+                      }
+                      .ozatM .yNFsl,
+                      .ozatM li {
+                        list-style-type: none;
+                        list-style-position: outside;
+                        list-style-image: none;
+                      }
+                      .yNFsl.SkUj4c,
+                      .yNFsl a {
+                        color: rgba(0, 0, 0, 0.54);
+                        text-decoration: none;
+                        padding: 6px 44px 6px 14px;
+                        line-height: 17px;
+                        display: block;
+                      }
+                      .SkUj4c {
+                        background-image: url(//ssl.gstatic.com/ui/v1/menu/checkmark2.png);
+                        background-position: right center;
+                        background-repeat: no-repeat;
+                      }
+                      .SkUj4c:active {
+                        background-color: #f8f9fa;
+                      }
+                    </style>
+                    <li class="yNFsl SkUj4c">Any time</li>
+                    <li class="yNFsl">
+                      <a
+                        href="/search?q=the+greek+drama+masks+represent+all+of+the+following+figures+(Melpomene+OR+polyhymnia+OR+thalia)&amp;source=lnt&amp;tbs=qdr:h&amp;sa=X&amp;ved=0ahUKEwjkwN_BpZH4AhW2TWwGHUiCCcgQpwUIDw"
+                        >Past hour</a
+                      >
+                    </li>
+                    <li class="yNFsl">
+                      <a
+                        href="/search?q=the+greek+drama+masks+represent+all+of+the+following+figures+(Melpomene+OR+polyhymnia+OR+thalia)&amp;source=lnt&amp;tbs=qdr:d&amp;sa=X&amp;ved=0ahUKEwjkwN_BpZH4AhW2TWwGHUiCCcgQpwUIEA"
+                        >Past 24 hours</a
+                      >
+                    </li>
+                    <li class="yNFsl">
+                      <a
+                        href="/search?q=the+greek+drama+masks+represent+all+of+the+following+figures+(Melpomene+OR+polyhymnia+OR+thalia)&amp;source=lnt&amp;tbs=qdr:w&amp;sa=X&amp;ved=0ahUKEwjkwN_BpZH4AhW2TWwGHUiCCcgQpwUIEQ"
+                        >Past week</a
+                      >
+                    </li>
+                    <li class="yNFsl">
+                      <a
+                        href="/search?q=the+greek+drama+masks+represent+all+of+the+following+figures+(Melpomene+OR+polyhymnia+OR+thalia)&amp;source=lnt&amp;tbs=qdr:m&amp;sa=X&amp;ved=0ahUKEwjkwN_BpZH4AhW2TWwGHUiCCcgQpwUIEg"
+                        >Past month</a
+                      >
+                    </li>
+                    <li class="yNFsl">
+                      <a
+                        href="/search?q=the+greek+drama+masks+represent+all+of+the+following+figures+(Melpomene+OR+polyhymnia+OR+thalia)&amp;source=lnt&amp;tbs=qdr:y&amp;sa=X&amp;ved=0ahUKEwjkwN_BpZH4AhW2TWwGHUiCCcgQpwUIEw"
+                        >Past year</a
+                      >
+                    </li>
+                  </ul>
+                </div>
+                <div class="PA9J5">
+                  <div class="RXaOfd" role="button" tabindex="0">
+                    <div class="TWMOUc">All results</div>
+                    <span class="OmTIzf"></span>
+                  </div>
+                  <ul class="sa1toc ozatM">
+                    <li class="yNFsl SkUj4c">All results</li>
+                    <li class="yNFsl">
+                      <a
+                        href="/search?q=the+greek+drama+masks+represent+all+of+the+following+figures+(Melpomene+OR+polyhymnia+OR+thalia)&amp;source=lnt&amp;tbs=li:1&amp;sa=X&amp;ved=0ahUKEwjkwN_BpZH4AhW2TWwGHUiCCcgQpwUIFQ"
+                        >Verbatim</a
+                      >
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+          <script nonce="2a_C1WLNDB0JVp66ob93Wg">
+            (function () {
+              var a = document.getElementById("st-toggle"),
+                b = document.getElementById("st-card");
+              a &&
+                b &&
+                a.addEventListener(
+                  "click",
+                  function (c) {
+                    b.style.display = b.style.display ? "" : "none";
+                    c.preventDefault();
+                  },
+                  !1
+                );
+            }.call(this));
+          </script>
+        </div>
+      </div>
+      <style>
+        .ZINbbc {
+          background-color: #fff;
+          margin-bottom: 30px;
+          box-shadow: 0 0 0 1px #dfe1e5;
+          border-radius: 8px;
+        }
+        .uUPGi {
+          font-size: 14px;
+          line-height: 22px;
+        }
+        .O9g5cc > *:first-child {
+          border-top-left-radius: 8px;
+          border-top-right-radius: 8px;
+        }
+        .O9g5cc > *:last-child {
+          border-bottom-left-radius: 8px;
+          border-bottom-right-radius: 8px;
+        }
+        .O9g5cc > .qxDOhb > *:first-child {
+          border-top-left-radius: 8px;
+          border-top-right-radius: 8px;
+        }
+        .O9g5cc > .qxDOhb > *:last-child {
+          border-bottom-left-radius: 8px;
+          border-bottom-right-radius: 8px;
+        }
+        .RO6NFd .RO6NFd {
+          box-shadow: none;
+          margin-bottom: 0px;
+        }
+        .luh4tb {
+          background: transparent !important;
+          box-shadow: none !important;
+          border: none !important;
+        }
+        .ZINbbc.luh4tb {
+          margin-top: -12px;
+          margin-bottom: 18px;
+        }
+        .rl7ilb {
+          display: block;
+          clear: both;
+        }
+        .egMi0 {
+          margin-bottom: -22px;
+        }
+        .kCrYT {
+          padding: 12px 16px 12px;
+        }
+        a.fdYsqf {
+          color: #4b11a8;
+        }
+        .l97dzf {
+          font-weight: 400;
+        }
+        .zBAuLc {
+          line-height: normal;
+          margin: 0;
+          padding: 0;
+        }
+        .BNeawe {
+          white-space: pre-line;
+          word-wrap: break-word;
+        }
+        .vvjwJb {
+          color: #1a0dab;
+          font-size: 20px;
+          line-height: 26px;
+        }
+        a:visited .vvjwJb,
+        .vvjwJb a:visited {
+          color: #4b11a8;
+        }
+        .vvjwJb.HrGdeb {
+          color: #fff;
+        }
+        a:visited .vvjwJb.HrGdeb,
+        .vvjwJb.HrGdeb a:visited {
+          color: rgba(255, 255, 255, 0.7);
+        }
+        .UPmit {
+          font-size: 14px;
+          line-height: 22px;
+        }
+        .UPmit.HrGdeb {
+          color: rgba(255, 255, 255, 0.7);
+        }
+        .UPmit.AP7Wnd {
+          color: #0d652d;
+        }
+        .Ey4n2 {
+          padding-bottom: 12px;
+        }
+        .s3v9rd {
+          font-size: 14px;
+          line-height: 22px;
+        }
+        .s3v9rd.HrGdeb {
+          color: #fff;
+        }
+        .s3v9rd.AP7Wnd {
+          color: #202124;
+        }
+        .yRG22b {
+          padding-left: 48px;
+          margin: 0;
+        }
+        .MSiauf {
+          padding-bottom: 8px;
+        }
+        .Tmh7uc {
+          text-decoration: line-through;
+        }
+        .XLloXe {
+          color: #1a0dab;
+          font-size: 14px;
+          line-height: 20px;
+        }
+        a:visited .XLloXe,
+        .XLloXe a:visited {
+          color: #4b11a8;
+        }
+        .XLloXe.HrGdeb {
+          color: #fff;
+        }
+        a:visited .XLloXe.HrGdeb,
+        .XLloXe.HrGdeb a:visited {
+          color: rgba(255, 255, 255, 0.7);
+        }
+        .mEUgP {
+          font-weight: bold;
+          font-size: 16px;
+          color: #000;
+          margin: 0;
+          padding: 12px 16px 12px;
+        }
+        .atOwb {
+          font-weight: bold;
+        }
+        .x54gtf {
+          height: 1px;
+          background-color: #dadce0;
+          margin: 0 16px;
+        }
+        .Q0HXG {
+          height: 1px;
+          background-color: #dadce0;
+        }
+        .C7GS5b {
+          margin-left: 12px;
+          display: table-cell;
+          vertical-align: middle;
+        }
+        .rkGIWe {
+          padding: 14px;
+        }
+        .xpc .hwc,
+        .xpx .hwx {
+          display: none;
+        }
+        .iIWm4b {
+          box-sizing: border-box;
+          min-height: 48px;
+        }
+        .fLtXsc {
+          padding: 14px;
+          position: relative;
+        }
+        .NtmAdb {
+          width: 40px;
+          height: 40px;
+          overflow: hidden;
+          margin-top: -10px;
+          margin-bottom: -16px;
+          margin-right: 8px;
+          border-radius: 4px;
+        }
+        .xpc .NtmAdb {
+          display: inline-block;
+        }
+        .xpx .NtmAdb {
+          display: none;
+        }
+        .Lt3Tzc {
+          display: inline-block;
+          padding-right: 26px;
+        }
+        .Lym8W {
+          height: 8px;
+          width: 12px;
+        }
+        .xCgLUe {
+          position: absolute;
+          right: 16px;
+          margin-top: -4px;
+          top: 50%;
+        }
+        .qxDOhb {
+          border-radius: 0;
+        }
+        .yStFkb .xpd {
+          border-radius: 8px;
+          box-shadow: none;
+          border: 1px solid #dadce0;
+          margin-bottom: 0;
+        }
+        .oTWEpb {
+          padding-top: 12px;
+        }
+        .n1Qedd {
+          overflow: hidden;
+          text-align: center;
+        }
+        .KMAGC {
+          margin: 0 auto;
+          display: block;
+        }
+        .ho0sdc {
+          margin: 0 -50%;
+          display: inline-block;
+        }
+        .Y6v1e {
+          line-height: 0;
+        }
+        .xUrNXd.VyZZLb {
+          color: rgba(255, 255, 255, 0.7);
+        }
+        .xUrNXd.UMOHqf {
+          color: #70757a;
+        }
+        .EDgFbc {
+          color: #1a0dab;
+        }
+        a:visited .EDgFbc {
+          color: #4b11a8;
+        }
+        .EDgFbc.VyZZLb {
+          color: #fff;
+        }
+        a:visited .EDgFbc.VyZZLb {
+          color: rgba(255, 255, 255, 0.7);
+        }
+        .P1NWSe {
+          display: table;
+          width: 100%;
+          padding-top: 16px;
+          padding-bottom: 16px;
+          margin-bottom: -12px;
+        }
+        .wOMIed {
+          display: table-cell;
+          vertical-align: top;
+        }
+        .nkPlDb {
+          vertical-align: middle;
+        }
+        .JhFlyf {
+          color: #3c4043;
+          font-size: 14px;
+          text-align: center;
+        }
+        .VQFmSd {
+          display: block;
+          white-space: pre-line;
+          word-wrap: break-word;
+        }
+        .JhFlyf.VQFmSd {
+          line-height: 22px;
+        }
+        .f4J0H {
+          padding: 18px;
+        }
+        .deIvCb {
+          font-size: 16px;
+          line-height: 20px;
+          font-weight: 400;
+        }
+        .deIvCb.HrGdeb {
+          color: #fff;
+        }
+        .deIvCb.AP7Wnd {
+          color: #202124;
+        }
+        .tAd8D {
+          font-size: 14px;
+          line-height: 20px;
+        }
+        .tAd8D.HrGdeb {
+          color: rgba(255, 255, 255, 0.7);
+        }
+        .tAd8D.AP7Wnd {
+          color: #70757a;
+        }
+        .Xdlr0d {
+          overflow-x: auto;
+          -webkit-overflow-scrolling: touch;
+          margin: 0 -8px;
+          padding: 2px 0 16px 24px;
+          margin-top: -2px;
+          transform: translate3d(0, 0, 0);
+        }
+        .idg8be {
+          display: table;
+          border-collapse: separate;
+          border-spacing: 8px 0;
+          margin: 0 -8px;
+          padding-right: 16px;
+        }
+        .BVG0Nb {
+          display: table-cell;
+          vertical-align: top;
+          background-color: #fff;
+          border-radius: 8px;
+          box-shadow: 0 0 0 1px #dfe1e5;
+          overflow: hidden;
+        }
+        .WddBJd {
+          display: block;
+          margin: 0 auto;
+        }
+        .RJI4s {
+          vertical-align: middle;
+        }
+        .mHhylf {
+          display: table-cell;
+          vertical-align: middle;
+        }
+        .WZ5GJf {
+          align-items: center;
+          padding: 0 20px;
+          min-width: 112px;
+        }
+        .qN9Ked,
+        .DXk5Me {
+          margin: 0 auto;
+        }
+        .DXk5Me {
+          margin-bottom: 12px;
+        }
+        .Dk7jOe {
+          display: block;
+          margin: 0 auto;
+        }
+        .Qi9Fd {
+          background: #fff;
+          border: 0;
+          border-radius: 999px;
+          display: block;
+          height: 56px;
+          justify-content: center;
+          width: 56px;
+          z-index: 0;
+        }
+        .Qi9Fd {
+          box-shadow: 0 0 0 1px #dfe1e5, inset 0 0 0 0 rgba(0, 0, 0, 0.1),
+            inset 0 0 0 0 rgba(255, 255, 255, 0.5);
+        }
+        .Qi9Fd:focus {
+          outline: none;
+        }
+        .Qi9Fd .hWHuJ {
+          display: block;
+          margin: 0 auto;
+        }
+        .ji5jpf {
+          text-align: center;
+        }
+        .gGQDvd {
+          padding: 14px;
+          position: relative;
+        }
+        .Q71vJc {
+          display: block;
+          position: relative;
+          width: 100%;
+        }
+        .kjGX2 {
+          position: absolute;
+          left: 48px;
+          right: 0;
+          vertical-align: bottom;
+          display: inline-block;
+          color: #3c4043;
+        }
+        .ieB2Dd {
+          overflow: hidden;
+          margin-top: -10px;
+          margin-bottom: -16px;
+          margin-right: 8px;
+          border-radius: 4px;
+          display: inline-block;
+          border-radius: 50%;
+          padding: 10px;
+        }
+        .S003Ke {
+          flex: none;
+        }
+        .z1asCe {
+          display: inline-block;
+          fill: currentColor;
+          height: 24px;
+          line-height: 24px;
+          position: relative;
+          width: 24px;
+        }
+        .z1asCe svg {
+          display: block;
+          height: 100%;
+          width: 100%;
+        }
+        .ZoN4Lb {
+          color: rgba(0, 0, 0, 0.54);
+        }
+        .nAXVG {
+          color: #70757a;
+        }
+        .IxQsL {
+          color: rgba(0, 0, 0, 0.26);
+        }
+        .xFO1De {
+          color: #fff;
+        }
+        .ooFpK {
+          color: rgba(255, 255, 255, 0.3);
+        }
+        .mtnwac {
+          color: #4285f4;
+        }
+        .WxeeKb {
+          color: #34a853;
+        }
+        .hIVRU {
+          color: #f29900;
+        }
+        .EXaTMc {
+          color: #fbbc04;
+        }
+        .sxn46d {
+          color: #000;
+        }
+        .gqMTF {
+          color: #1a73e8;
+        }
+        .zpn8Mb {
+          color: #d93025;
+        }
+        .dEUPmd {
+          color: #1e8e3e;
+        }
+        .lRVwie {
+          text-overflow: ellipsis;
+          white-space: nowrap;
+          overflow: hidden;
+        }
+        .rLshyf,
+        .BmP5tf {
+          padding-top: 12px;
+          padding-bottom: 12px;
+        }
+        .YOx3Ab {
+          padding-left: 16px;
+        }
+        .w1C3Le,
+        .BmP5tf,
+        .G5NbBd,
+        .CS4w5b {
+          padding-left: 16px;
+          padding-right: 16px;
+        }
+        .G5NbBd {
+          padding-bottom: 12px;
+        }
+        .CS4w5b {
+          padding-top: 12px;
+        }
+        .nMymef {
+          display: flex;
+        }
+        .G5eFlf {
+          flex: 1;
+          display: block;
+        }
+        .nMymef span {
+          text-align: center;
+        }
+        .EYqSq {
+          margin: 6px 4px 9px 0;
+          border-radius: 100%;
+          display: inline-block;
+          height: 10px;
+          vertical-align: middle;
+          width: 10px;
+        }
+        .dfB0uf {
+          color: #3c4043;
+          font-weight: bold;
+        }
+      </style>
+      <div><!--SW_C_X--></div>
+      <div></div>
+      <div>
+        <div class="ZINbbc luh4tb xpd O9g5cc uUPGi">
+          <div class="egMi0 kCrYT">
+            <a
+              href="/url?esrc=s&amp;q=&amp;rct=j&amp;sa=U&amp;url=https://study.com/academy/lesson/greek-muses-of-tragedy-comedy-melpomene-thalia.html&amp;ved=2ahUKEwjkwN_BpZH4AhW2TWwGHUiCCcgQFnoECAUQAg&amp;usg=AOvVaw1qrTjAnbvJbSPXlONtpmn5"
+              ><h3 class="zBAuLc l97dzf">
+                <div class="BNeawe vvjwJb AP7Wnd">
+                  Greek Muses of Tragedy &amp; Comedy: Melpomene &amp; Thalia -
+                  Study.com
+                </div>
+              </h3>
+              <div class="BNeawe UPmit AP7Wnd">
+                study.com � Courses � History Courses
+              </div></a
+            >
+          </div>
+          <div class="kCrYT">
+            <div>
+              <div class="BNeawe s3v9rd AP7Wnd">
+                <div>
+                  <div class="MSiauf">
+                    <div class="BNeawe s3v9rd AP7Wnd">
+                      These masks, a symbol of opposing themes in literature,
+                      theater, and song, come from two of the Greek Muses,
+                      Melpomene and Thalia. Melpomene is the Muse of�...
+                    </div>
+                  </div>
+                  <div>
+                    <div class="BNeawe s3v9rd AP7Wnd">
+                      Missing: <span class="Tmh7uc UMOHqf">following</span> |
+                      Must include:<span class="BNeawe"
+                        ><a
+                          href="/search?q=the+greek+drama+masks+represent+all+of+the+%22following%22+figures+(Melpomene+OR+polyhymnia+OR+thalia)&amp;sa=X&amp;ved=2ahUKEwjkwN_BpZH4AhW2TWwGHUiCCcgQ5t4CegQIBRAF"
+                          ><span class="XLloXe AP7Wnd">following</span></a
+                        ></span
+                      >
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div class="ZINbbc xpd O9g5cc uUPGi">
+          <div></div>
+          <div class="mEUgP">
+            <span
+              ><div class="BNeawe">
+                <span class="atOwb UMOHqf">People also ask</span>
+              </div></span
+            >
+          </div>
+          <div class="x54gtf"></div>
+          <div>
+            <div class="xpc">
+              <div class="duf-h">
+                <div
+                  class="fLtXsc iIWm4b"
+                  aria-expanded="false"
+                  id="tsuid1"
+                  role="button"
+                  tabindex="0"
+                  data-ved="2ahUKEwjkwN_BpZH4AhW2TWwGHUiCCcgQuk56BAgGEAI"
+                >
+                  <div class="Lt3Tzc">Which mask is Melpomene?</div>
+                  <svg
+                    class="Lym8W xCgLUe hwc"
+                    viewbox="0 0 12 8"
+                    xmlns="http://www.w3.org/2000/sg"
+                  >
+                    <path
+                      fill="#70757a"
+                      d="M6 0l-6 6 1.41 1.41 4.59 -4.58 4.59 4.58 1.41 -1.41z"
+                    ></path></svg
+                  ><svg
+                    class="Lym8W xCgLUe hwx"
+                    viewbox="0 0 12 8"
+                    xmlns="http://www.w3.org/2000/sg"
+                  >
+                    <path
+                      fill="#70757a"
+                      d="M10.59 0l-4.59 4.58 -4.59 -4.58 -1.41 1.41 6 6 6 -6z"
+                    ></path>
+                  </svg>
+                </div>
+              </div>
+              <div class="qxDOhb" id="accdef_1"></div>
+            </div>
+          </div>
+          <div class="x54gtf"></div>
+          <div>
+            <div class="xpc">
+              <div class="duf-h">
+                <div
+                  class="fLtXsc iIWm4b"
+                  aria-expanded="false"
+                  id="tsuid2"
+                  role="button"
+                  tabindex="0"
+                  data-ved="2ahUKEwjkwN_BpZH4AhW2TWwGHUiCCcgQuk56BAgGEAk"
+                >
+                  <div class="Lt3Tzc">
+                    What did masks represent in Greek Theatre?
+                  </div>
+                  <svg
+                    class="Lym8W xCgLUe hwc"
+                    viewbox="0 0 12 8"
+                    xmlns="http://www.w3.org/2000/sg"
+                  >
+                    <path
+                      fill="#70757a"
+                      d="M6 0l-6 6 1.41 1.41 4.59 -4.58 4.59 4.58 1.41 -1.41z"
+                    ></path></svg
+                  ><svg
+                    class="Lym8W xCgLUe hwx"
+                    viewbox="0 0 12 8"
+                    xmlns="http://www.w3.org/2000/sg"
+                  >
+                    <path
+                      fill="#70757a"
+                      d="M10.59 0l-4.59 4.58 -4.59 -4.58 -1.41 1.41 6 6 6 -6z"
+                    ></path>
+                  </svg>
+                </div>
+              </div>
+              <div class="qxDOhb" id="accdef_3"></div>
+            </div>
+          </div>
+          <div class="x54gtf"></div>
+          <div>
+            <div class="xpc">
+              <div class="duf-h">
+                <div
+                  class="fLtXsc iIWm4b"
+                  aria-expanded="false"
+                  id="tsuid3"
+                  role="button"
+                  tabindex="0"
+                  data-ved="2ahUKEwjkwN_BpZH4AhW2TWwGHUiCCcgQuk56BAgGEBA"
+                >
+                  <div class="Lt3Tzc">
+                    What do Melpomene and Thalia symbolize in drama?
+                  </div>
+                  <svg
+                    class="Lym8W xCgLUe hwc"
+                    viewbox="0 0 12 8"
+                    xmlns="http://www.w3.org/2000/sg"
+                  >
+                    <path
+                      fill="#70757a"
+                      d="M6 0l-6 6 1.41 1.41 4.59 -4.58 4.59 4.58 1.41 -1.41z"
+                    ></path></svg
+                  ><svg
+                    class="Lym8W xCgLUe hwx"
+                    viewbox="0 0 12 8"
+                    xmlns="http://www.w3.org/2000/sg"
+                  >
+                    <path
+                      fill="#70757a"
+                      d="M10.59 0l-4.59 4.58 -4.59 -4.58 -1.41 1.41 6 6 6 -6z"
+                    ></path>
+                  </svg>
+                </div>
+              </div>
+              <div class="qxDOhb" id="accdef_5"></div>
+            </div>
+          </div>
+          <div class="x54gtf"></div>
+          <div>
+            <div class="xpc">
+              <div class="duf-h">
+                <div
+                  class="fLtXsc iIWm4b"
+                  aria-expanded="false"
+                  id="tsuid4"
+                  role="button"
+                  tabindex="0"
+                  data-ved="2ahUKEwjkwN_BpZH4AhW2TWwGHUiCCcgQuk56BAgGEBc"
+                >
+                  <div class="Lt3Tzc">Who was Melpomene?</div>
+                  <svg
+                    class="Lym8W xCgLUe hwc"
+                    viewbox="0 0 12 8"
+                    xmlns="http://www.w3.org/2000/sg"
+                  >
+                    <path
+                      fill="#70757a"
+                      d="M6 0l-6 6 1.41 1.41 4.59 -4.58 4.59 4.58 1.41 -1.41z"
+                    ></path></svg
+                  ><svg
+                    class="Lym8W xCgLUe hwx"
+                    viewbox="0 0 12 8"
+                    xmlns="http://www.w3.org/2000/sg"
+                  >
+                    <path
+                      fill="#70757a"
+                      d="M10.59 0l-4.59 4.58 -4.59 -4.58 -1.41 1.41 6 6 6 -6z"
+                    ></path>
+                  </svg>
+                </div>
+              </div>
+              <div class="qxDOhb" id="accdef_7"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div class="ZINbbc luh4tb xpd O9g5cc uUPGi">
+          <div class="egMi0 kCrYT">
+            <a
+              href="/url?esrc=s&amp;q=&amp;rct=j&amp;sa=U&amp;url=https://thegreekdesigners.com/2016/03/07/drama-masks-thalia-melpomene/&amp;ved=2ahUKEwjkwN_BpZH4AhW2TWwGHUiCCcgQFnoECAsQAg&amp;usg=AOvVaw28oRgIqEBEKlwxpLdjCmxJ"
+              ><h3 class="zBAuLc l97dzf">
+                <div class="BNeawe vvjwJb AP7Wnd">
+                  Drama Masks: Thalia + Melpomene - The Greek Designers
+                </div>
+              </h3>
+              <div class="BNeawe UPmit AP7Wnd">
+                thegreekdesigners.com � 2016/03/07 �
+                drama-masks-thalia-melpomene
+              </div></a
+            >
+          </div>
+          <div class="kCrYT">
+            <div>
+              <div class="BNeawe s3v9rd AP7Wnd">
+                <div>
+                  <div class="MSiauf">
+                    <div class="BNeawe s3v9rd AP7Wnd">
+                      <span class="xUrNXd UMOHqf">07-Mar-2016</span
+                      ><span class="xUrNXd UMOHqf"> � </span>Drama Masks: Thalia
+                      + Melpomene | The two masks are associated with ancient
+                      greek drama with the smiling and frowning faces.
+                    </div>
+                  </div>
+                  <div>
+                    <div class="BNeawe s3v9rd AP7Wnd">
+                      Missing: <span class="Tmh7uc UMOHqf">figures</span> | Must
+                      include:<span class="BNeawe"
+                        ><a
+                          href="/search?q=the+greek+drama+masks+represent+all+of+the+following+%22figures%22+(Melpomene+OR+polyhymnia+OR+thalia)&amp;sa=X&amp;ved=2ahUKEwjkwN_BpZH4AhW2TWwGHUiCCcgQ5t4CegQICxAG"
+                          ><span class="XLloXe AP7Wnd">figures</span></a
+                        ></span
+                      >
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div class="ZINbbc luh4tb xpd O9g5cc uUPGi">
+          <div class="egMi0 kCrYT">
+            <a
+              href="/url?esrc=s&amp;q=&amp;rct=j&amp;sa=U&amp;url=https://www.onstageblog.com/editorials/comedy-and-tragedy-masks-of-theatre&amp;ved=2ahUKEwjkwN_BpZH4AhW2TWwGHUiCCcgQFnoECAIQAg&amp;usg=AOvVaw0ari9o3XH9kIe_ZqfuJ1bm"
+              ><h3 class="zBAuLc l97dzf">
+                <div class="BNeawe vvjwJb AP7Wnd">
+                  The Origins of the Comedy and Tragedy Masks of Theatre
+                </div>
+              </h3>
+              <div class="BNeawe UPmit AP7Wnd">
+                www.onstageblog.com � editorials �
+                comedy-and-tragedy-masks-of-theatre
+              </div></a
+            >
+          </div>
+          <div class="kCrYT">
+            <div>
+              <div class="BNeawe s3v9rd AP7Wnd">
+                <div>
+                  <div class="MSiauf">
+                    <div class="BNeawe s3v9rd AP7Wnd">
+                      <span class="xUrNXd UMOHqf">21-Jun-2020</span
+                      ><span class="xUrNXd UMOHqf"> � </span>The comedy and
+                      tragedy symbol dates back to Greek Mythology and has ...
+                      The name Melpomene represents the tragedy mask or Muse of
+                      Tragedy�...
+                    </div>
+                  </div>
+                  <div>
+                    <div class="BNeawe s3v9rd AP7Wnd">
+                      Missing: <span class="Tmh7uc UMOHqf">following</span>
+                      <span class="Tmh7uc UMOHqf">figures</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div class="ZINbbc luh4tb xpd O9g5cc uUPGi">
+          <div class="egMi0 kCrYT">
+            <a
+              href="/url?esrc=s&amp;q=&amp;rct=j&amp;sa=U&amp;url=https://classroom.synonym.com/what-is-the-meaning-of-comedy-tragedy-masks-12078856.html&amp;ved=2ahUKEwjkwN_BpZH4AhW2TWwGHUiCCcgQFnoECAcQAg&amp;usg=AOvVaw3-rd5oDGvuivGutzDTkeQx"
+              ><h3 class="zBAuLc l97dzf">
+                <div class="BNeawe vvjwJb AP7Wnd">
+                  What Is the Meaning of Comedy Tragedy Masks? - Classroom
+                </div>
+              </h3>
+              <div class="BNeawe UPmit AP7Wnd">
+                classroom.synonym.com �
+                what-is-the-meaning-of-comedy-tragedy-masks...
+              </div></a
+            >
+          </div>
+          <div class="kCrYT">
+            <div>
+              <div class="BNeawe s3v9rd AP7Wnd">
+                <div>
+                  <div>
+                    <div class="BNeawe s3v9rd AP7Wnd">
+                      <span class="xUrNXd UMOHqf">29-Sept-2017</span
+                      ><span class="xUrNXd UMOHqf"> � </span>The twin masks of
+                      comedy and tragedy are used to represent the creative
+                      arts: particularly theater, film, and television.
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div class="ZINbbc luh4tb xpd O9g5cc uUPGi">
+          <div class="egMi0 kCrYT">
+            <a
+              href="/url?esrc=s&amp;q=&amp;rct=j&amp;sa=U&amp;url=https://en.wikipedia.org/wiki/Theatre_of_ancient_Greece&amp;ved=2ahUKEwjkwN_BpZH4AhW2TWwGHUiCCcgQFnoECAgQAg&amp;usg=AOvVaw2M-VCPgbt6OwtvBV8LrZ3s"
+              ><h3 class="zBAuLc l97dzf">
+                <div class="BNeawe vvjwJb AP7Wnd">
+                  Theatre of ancient Greece - Wikipedia
+                </div>
+              </h3>
+              <div class="BNeawe UPmit AP7Wnd">
+                en.wikipedia.org � wiki � Theatre_of_ancient_Greece
+              </div></a
+            >
+          </div>
+          <div class="kCrYT">
+            <div>
+              <div class="BNeawe s3v9rd AP7Wnd">
+                <div>
+                  <div>
+                    <div class="BNeawe s3v9rd AP7Wnd">
+                      Ancient Greek theatre was a theatrical culture that
+                      flourished in ancient Greece from 700 BC ... The half-mask
+                      over the eyes and nose identifies the figure as an actor.
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div class="ZINbbc luh4tb xpd O9g5cc uUPGi">
+          <div class="egMi0 kCrYT">
+            <a
+              href="/url?esrc=s&amp;q=&amp;rct=j&amp;sa=U&amp;url=https://en.wikipedia.org/wiki/Muses&amp;ved=2ahUKEwjkwN_BpZH4AhW2TWwGHUiCCcgQFnoECAAQAg&amp;usg=AOvVaw0rn1WWcaSVTHoiP71DCVg_"
+              ><h3 class="zBAuLc l97dzf">
+                <div class="BNeawe vvjwJb AP7Wnd">Muses - Wikipedia</div>
+              </h3>
+              <div class="BNeawe UPmit AP7Wnd">
+                en.wikipedia.org � wiki � Muses
+              </div></a
+            >
+          </div>
+          <div class="kCrYT">
+            <div>
+              <div class="BNeawe s3v9rd AP7Wnd">
+                <div>
+                  <div>
+                    <div class="BNeawe s3v9rd AP7Wnd">
+                      In ancient Greek religion and mythology, the Muses are the
+                      inspirational goddesses of literature, science, and the
+                      arts. They were considered the source of�...
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div class="ZINbbc luh4tb xpd O9g5cc uUPGi">
+          <div class="egMi0 kCrYT">
+            <a
+              href="/url?esrc=s&amp;q=&amp;rct=j&amp;sa=U&amp;url=https://ourpastimes.com/what-is-the-name-of-comedy-tragedy-masks-12181683.html&amp;ved=2ahUKEwjkwN_BpZH4AhW2TWwGHUiCCcgQtwJ6BAgJEAI&amp;usg=AOvVaw0O8w4OPIVABS0ogJSl048X"
+              ><h3 class="zBAuLc l97dzf">
+                <div class="BNeawe vvjwJb AP7Wnd">
+                  What Is the Name of Comedy Tragedy Masks? - Our Pastimes
+                </div>
+              </h3>
+              <div class="BNeawe UPmit AP7Wnd">
+                ourpastimes.com � Theater � performance
+              </div></a
+            >
+          </div>
+          <div class="kCrYT">
+            <div>
+              <div class="BNeawe s3v9rd AP7Wnd">
+                <div>
+                  <div>
+                    <div class="BNeawe s3v9rd AP7Wnd">
+                      Modern theater as an art is often represented by two
+                      masks: a smiling comedy mask representing Thalia, the muse
+                      of comedy, and a frowning�...<br />Duration:
+                      <span class="xUrNXd UMOHqf">4:55</span><br />Posted:
+                      <span class="xUrNXd UMOHqf">15-Sept-2017</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div class="ZINbbc xpd O9g5cc uUPGi">
+          <div class="kCrYT">
+            <div class="BNeawe deIvCb AP7Wnd">
+              <span class="BNeawe"
+                ><a
+                  href="https://www.google.com/search?ei=2f-ZYqTwK7abseMPyISmwAw&amp;q=the+greek+drama+masks+represent+all+of+the+following+figures+(Melpomene+OR+polyhymnia+OR+thalia)&amp;tbm=isch&amp;sa=X&amp;ved=2ahUKEwjkwN_BpZH4AhW2TWwGHUiCCcgQsAR6BAgKEAE"
+                  ><span class="deIvCb AP7Wnd"
+                    ><span class="atOwb UMOHqf">Images</span></span
+                  ></a
+                ></span
+              >
+            </div>
+            <div class="BNeawe tAd8D AP7Wnd">
+              <span class="BNeawe"
+                ><a
+                  href="https://www.google.com/search?ei=2f-ZYqTwK7abseMPyISmwAw&amp;q=the+greek+drama+masks+represent+all+of+the+following+figures+(Melpomene+OR+polyhymnia+OR+thalia)&amp;tbm=isch&amp;sa=X&amp;ved=2ahUKEwjkwN_BpZH4AhW2TWwGHUiCCcgQ7Al6BAgKEAI"
+                  ><span class="tAd8D AP7Wnd"
+                    ><span class="UMOHqf EDgFbc">View all</span></span
+                  ></a
+                ></span
+              >
+            </div>
+          </div>
+          <div>
+            <div>
+              <div>
+                <div class="Xdlr0d">
+                  <div class="idg8be">
+                    <a
+                      class="BVG0Nb"
+                      href="https://www.google.com/imgres?imgurl=https://study.com/cimages/multimages/16/comedytragedy.png&amp;imgrefurl=https://study.com/academy/lesson/greek-muses-of-tragedy-comedy-melpomene-thalia.html&amp;h=283&amp;w=350&amp;tbnid=YJS0jbnqqhzG7M&amp;q=the+greek+drama+masks+represent+all+of+the+following+figures+(Melpomene+OR+polyhymnia+OR+thalia)&amp;tbnh=97&amp;tbnw=120&amp;usg=AI4_-kRa1rzASnkQdm4vqIkvxn3H5hVDww&amp;vet=1&amp;docid=h-5TnxAvu9R-iM&amp;sa=X&amp;ved=2ahUKEwjkwN_BpZH4AhW2TWwGHUiCCcgQ9QF6BAgKEAQ"
+                      ><div>
+                        <img
+                          class="WddBJd"
+                          style="
+                            max-width: none;
+                            height: 128px;
+                            max-height: 128px;
+                          "
+                          alt="study.com/cimages/multimages/16/comedytragedy.png"
+                          src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                          id="dimg_1"
+                          data-deferred="1"
+                        /></div></a
+                    ><a
+                      class="BVG0Nb"
+                      href="https://www.google.com/imgres?imgurl=https://thegreekdesigners.com/wp-content/uploads/2016/03/drama-masks1.gif&amp;imgrefurl=https://thegreekdesigners.com/2016/03/07/drama-masks-thalia-melpomene/&amp;h=934&amp;w=1121&amp;tbnid=uUw6QeVu9buS2M&amp;q=the+greek+drama+masks+represent+all+of+the+following+figures+(Melpomene+OR+polyhymnia+OR+thalia)&amp;tbnh=125&amp;tbnw=150&amp;usg=AI4_-kR43ZF3h7cb-tzbQxiv7_K4dv3hFg&amp;vet=1&amp;docid=YAhZaSmq0DPB-M&amp;sa=X&amp;ved=2ahUKEwjkwN_BpZH4AhW2TWwGHUiCCcgQ9QF6BAgKEAY"
+                      ><div>
+                        <img
+                          class="WddBJd"
+                          style="
+                            max-width: none;
+                            height: 128px;
+                            max-height: 128px;
+                          "
+                          alt="thegreekdesigners.com/wp-content/uploads/2016/03/d..."
+                          src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                          id="dimg_3"
+                          data-deferred="1"
+                        /></div></a
+                    ><a
+                      class="BVG0Nb"
+                      href="https://www.google.com/imgres?imgurl=https://upload.wikimedia.org/wikipedia/commons/4/49/Greek_-_Actor_-_Walters_541067.jpg&amp;imgrefurl=https://en.wikipedia.org/wiki/Theatre_of_ancient_Greece&amp;h=1799&amp;w=1189&amp;tbnid=GwLHKhxfnXZcAM&amp;q=the+greek+drama+masks+represent+all+of+the+following+figures+(Melpomene+OR+polyhymnia+OR+thalia)&amp;tbnh=150&amp;tbnw=99&amp;usg=AI4_-kTof_XQySfKJhWVx6GEaJtQen5_ow&amp;vet=1&amp;docid=QSXXMTJYllwzEM&amp;sa=X&amp;ved=2ahUKEwjkwN_BpZH4AhW2TWwGHUiCCcgQ9QF6BAgKEAg"
+                      ><div>
+                        <img
+                          class="WddBJd"
+                          style="
+                            max-width: none;
+                            height: 128px;
+                            max-height: 128px;
+                          "
+                          alt="upload.wikimedia.org/wikipedia/commons/4/49/Greek_..."
+                          src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                          id="dimg_5"
+                          data-deferred="1"
+                        /></div></a
+                    ><a
+                      class="BVG0Nb"
+                      href="https://www.google.com/imgres?imgurl=http://static1.squarespace.com/static/551eb398e4b0b101cf722ed8/5a90165d71c10bed71669495/5ae1cebd352f530c1feeabce/1592742122364/1200-skd283128sdc-comedy-and-tragedy-masks.jpg?format%3D1500w&amp;imgrefurl=https://www.onstageblog.com/editorials/comedy-and-tragedy-masks-of-theatre&amp;h=1000&amp;w=1200&amp;tbnid=tlU9BqImhD2sSM&amp;q=the+greek+drama+masks+represent+all+of+the+following+figures+(Melpomene+OR+polyhymnia+OR+thalia)&amp;tbnh=125&amp;tbnw=150&amp;usg=AI4_-kTDtDgPk9l2geb0xrb124lJjF0NSg&amp;vet=1&amp;docid=43sz2yNg5JcWVM&amp;sa=X&amp;ved=2ahUKEwjkwN_BpZH4AhW2TWwGHUiCCcgQ9QF6BAgKEAo"
+                      ><div>
+                        <img
+                          class="WddBJd"
+                          style="
+                            max-width: none;
+                            height: 128px;
+                            max-height: 128px;
+                          "
+                          alt="static1.squarespace.com/static/551eb398e4b0b101cf7..."
+                          src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                          id="dimg_7"
+                          data-deferred="1"
+                        /></div></a
+                    ><a
+                      class="BVG0Nb"
+                      href="https://www.google.com/imgres?imgurl=http://www.teachinghistory100.org/images/uploads/article/53_about_object.jpg&amp;imgrefurl=http://www.teachinghistory100.org/objects/about_the_object/greek_theatre_mask&amp;h=524&amp;w=524&amp;tbnid=tQL6hPXpYo7Z4M&amp;q=the+greek+drama+masks+represent+all+of+the+following+figures+(Melpomene+OR+polyhymnia+OR+thalia)&amp;tbnh=132&amp;tbnw=132&amp;usg=AI4_-kQcrfrzNT4nOSom0tqnwSq09u0MRw&amp;vet=1&amp;docid=3bkT7I20iRfL9M&amp;sa=X&amp;ved=2ahUKEwjkwN_BpZH4AhW2TWwGHUiCCcgQ9QF6BAgKEAw"
+                      ><div>
+                        <img
+                          class="WddBJd"
+                          style="
+                            max-width: none;
+                            height: 128px;
+                            max-height: 128px;
+                          "
+                          alt="www.teachinghistory100.org/images/uploads/article/..."
+                          src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                          id="dimg_9"
+                          data-deferred="1"
+                        /></div></a
+                    ><a
+                      class="BVG0Nb"
+                      href="https://www.google.com/imgres?imgurl=https://c8.alamy.com/comp/EGAWK6/ancient-greece-theatre-masks-in-marble-stone-EGAWK6.jpg&amp;imgrefurl=https://www.alamy.com/stock-photo/greek-masks-comedy-tragedy.html&amp;h=1390&amp;w=954&amp;tbnid=aQDKueoqPXh16M&amp;q=the+greek+drama+masks+represent+all+of+the+following+figures+(Melpomene+OR+polyhymnia+OR+thalia)&amp;tbnh=150&amp;tbnw=103&amp;usg=AI4_-kSc3bIp7GHNjKUFkRhXY-5oqiP-kw&amp;vet=1&amp;docid=11KiO2D_IjM2pM&amp;sa=X&amp;ved=2ahUKEwjkwN_BpZH4AhW2TWwGHUiCCcgQ9QF6BAgKEA4"
+                      ><div>
+                        <img
+                          class="WddBJd"
+                          style="
+                            max-width: none;
+                            height: 128px;
+                            max-height: 128px;
+                          "
+                          alt="c8.alamy.com/comp/EGAWK6/ancient-greece-theatre-ma..."
+                          src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                          id="dimg_11"
+                          data-deferred="1"
+                        /></div
+                    ></a>
+                    <div class="mHhylf">
+                      <div class="WZ5GJf">
+                        <a
+                          class="qN9Ked"
+                          href="https://www.google.com/search?ei=2f-ZYqTwK7abseMPyISmwAw&amp;q=the+greek+drama+masks+represent+all+of+the+following+figures+(Melpomene+OR+polyhymnia+OR+thalia)&amp;tbm=isch&amp;sa=X&amp;ved=2ahUKEwjkwN_BpZH4AhW2TWwGHUiCCcgQ7Al6BAgKEA8"
+                          ><button class="DXk5Me Qi9Fd" tabindex="-1">
+                            <span class="hWHuJ"
+                              ><img
+                                class="Dk7jOe"
+                                alt=""
+                                src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                                style="max-width: 24px; max-height: 24px"
+                                id="dimg_13"
+                                data-deferred="1"
+                            /></span>
+                          </button>
+                          <div class="BNeawe ji5jpf tAd8D AP7Wnd">
+                            View all
+                          </div></a
+                        >
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div class="ZINbbc luh4tb xpd O9g5cc uUPGi">
+          <div class="egMi0 kCrYT">
+            <a
+              href="/url?esrc=s&amp;q=&amp;rct=j&amp;sa=U&amp;url=https://www.newworldencyclopedia.org/entry/Drama&amp;ved=2ahUKEwjkwN_BpZH4AhW2TWwGHUiCCcgQFnoECAQQAg&amp;usg=AOvVaw3iEHYSkHR46JLu6MBeR3_f"
+              ><h3 class="zBAuLc l97dzf">
+                <div class="BNeawe vvjwJb AP7Wnd">
+                  Drama - New World Encyclopedia
+                </div>
+              </h3>
+              <div class="BNeawe UPmit AP7Wnd">
+                www.newworldencyclopedia.org � entry � Drama
+              </div></a
+            >
+          </div>
+          <div class="kCrYT">
+            <div>
+              <div class="BNeawe s3v9rd AP7Wnd">
+                <div>
+                  <div>
+                    <div class="BNeawe s3v9rd AP7Wnd">
+                      The two masks associated with drama represent the
+                      traditional generic division between comedy and tragedy.
+                      They are symbols of the ancient Greek Muses,�...
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div class="ZINbbc luh4tb xpd O9g5cc uUPGi">
+          <div class="egMi0 kCrYT">
+            <a
+              href="/url?esrc=s&amp;q=&amp;rct=j&amp;sa=U&amp;url=https://www.thoughtco.com/drama-literary-definition-4171972&amp;ved=2ahUKEwjkwN_BpZH4AhW2TWwGHUiCCcgQFnoECAEQAg&amp;usg=AOvVaw20iaS-PaGME-jQNdLb-Hg9"
+              ><h3 class="zBAuLc l97dzf">
+                <div class="BNeawe vvjwJb AP7Wnd">
+                  What Is Drama? Literary Definition and Examples - ThoughtCo
+                </div>
+              </h3>
+              <div class="BNeawe UPmit AP7Wnd">
+                www.thoughtco.com � Plays &amp; Drama � Basics &amp; Advice
+              </div></a
+            >
+          </div>
+          <div class="kCrYT">
+            <div>
+              <div class="BNeawe s3v9rd AP7Wnd">
+                <div>
+                  <div>
+                    <div class="BNeawe s3v9rd AP7Wnd">
+                      <span class="xUrNXd UMOHqf">14-Feb-2019</span
+                      ><span class="xUrNXd UMOHqf"> � </span>Thalia: The Greek
+                      Muse of comedy, depicted as one of the two masks of drama.
+                      Melpomene: The Greek Muse of tragedy, the other mask of
+                      drama.
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div class="ZINbbc xpd O9g5cc uUPGi">
+          <div></div>
+          <div class="mEUgP">
+            <span><div class="BNeawe">Related searches</div></span>
+          </div>
+          <div class="x54gtf"></div>
+          <div>
+            <div class="gGQDvd iIWm4b">
+              <a
+                class="Q71vJc"
+                href="/search?q=Comedy+and+tragedy+meaning&amp;sa=X&amp;ved=2ahUKEwjkwN_BpZH4AhW2TWwGHUiCCcgQ1QJ6BAgDEAI"
+                ><accordion-entry-search-icon
+                  ><span
+                    class="ieB2Dd S003Ke ZoN4Lb z1asCe MZy1Rb"
+                    style="height: 20px; line-height: 20px; width: 20px"
+                    ><svg
+                      focusable="false"
+                      xmlns="http://www.w3.org/2000/svg"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0 0 16 9.5 6.5 6.5 0 1 0 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"
+                      ></path></svg></span
+                ></accordion-entry-search-icon>
+                <div class="kjGX2">
+                  <span
+                    ><div class="BNeawe s3v9rd AP7Wnd lRVwie">
+                      Comedy and tragedy meaning
+                    </div></span
+                  >
+                </div></a
+              >
+            </div>
+          </div>
+          <div class="x54gtf"></div>
+          <div>
+            <div class="gGQDvd iIWm4b">
+              <a
+                class="Q71vJc"
+                href="/search?q=Thalia+and+Melpomene+meaning&amp;sa=X&amp;ved=2ahUKEwjkwN_BpZH4AhW2TWwGHUiCCcgQ1QJ6BAgDEAQ"
+                ><accordion-entry-search-icon
+                  ><span
+                    class="ieB2Dd S003Ke ZoN4Lb z1asCe MZy1Rb"
+                    style="height: 20px; line-height: 20px; width: 20px"
+                    ><svg
+                      focusable="false"
+                      xmlns="http://www.w3.org/2000/svg"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0 0 16 9.5 6.5 6.5 0 1 0 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"
+                      ></path></svg></span
+                ></accordion-entry-search-icon>
+                <div class="kjGX2">
+                  <span
+                    ><div class="BNeawe s3v9rd AP7Wnd lRVwie">
+                      Thalia and Melpomene meaning
+                    </div></span
+                  >
+                </div></a
+              >
+            </div>
+          </div>
+          <div class="x54gtf"></div>
+          <div>
+            <div class="gGQDvd iIWm4b">
+              <a
+                class="Q71vJc"
+                href="/search?q=Greek+masks+of+Comedy+and+tragedy&amp;sa=X&amp;ved=2ahUKEwjkwN_BpZH4AhW2TWwGHUiCCcgQ1QJ6BAgDEAY"
+                ><accordion-entry-search-icon
+                  ><span
+                    class="ieB2Dd S003Ke ZoN4Lb z1asCe MZy1Rb"
+                    style="height: 20px; line-height: 20px; width: 20px"
+                    ><svg
+                      focusable="false"
+                      xmlns="http://www.w3.org/2000/svg"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0 0 16 9.5 6.5 6.5 0 1 0 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"
+                      ></path></svg></span
+                ></accordion-entry-search-icon>
+                <div class="kjGX2">
+                  <span
+                    ><div class="BNeawe s3v9rd AP7Wnd lRVwie">
+                      Greek masks of Comedy and tragedy
+                    </div></span
+                  >
+                </div></a
+              >
+            </div>
+          </div>
+          <div class="x54gtf"></div>
+          <div>
+            <div class="gGQDvd iIWm4b">
+              <a
+                class="Q71vJc"
+                href="/search?q=Why+is+Melpomene+the+Muse+of+tragedy&amp;sa=X&amp;ved=2ahUKEwjkwN_BpZH4AhW2TWwGHUiCCcgQ1QJ6BAgDEAg"
+                ><accordion-entry-search-icon
+                  ><span
+                    class="ieB2Dd S003Ke ZoN4Lb z1asCe MZy1Rb"
+                    style="height: 20px; line-height: 20px; width: 20px"
+                    ><svg
+                      focusable="false"
+                      xmlns="http://www.w3.org/2000/svg"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0 0 16 9.5 6.5 6.5 0 1 0 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"
+                      ></path></svg></span
+                ></accordion-entry-search-icon>
+                <div class="kjGX2">
+                  <span
+                    ><div class="BNeawe s3v9rd AP7Wnd lRVwie">
+                      Why is Melpomene the Muse of tragedy
+                    </div></span
+                  >
+                </div></a
+              >
+            </div>
+          </div>
+          <div class="x54gtf"></div>
+          <div>
+            <div class="gGQDvd iIWm4b">
+              <a
+                class="Q71vJc"
+                href="/search?q=Melpomene+and+Thalia&amp;sa=X&amp;ved=2ahUKEwjkwN_BpZH4AhW2TWwGHUiCCcgQ1QJ6BAgDEAo"
+                ><accordion-entry-search-icon
+                  ><span
+                    class="ieB2Dd S003Ke ZoN4Lb z1asCe MZy1Rb"
+                    style="height: 20px; line-height: 20px; width: 20px"
+                    ><svg
+                      focusable="false"
+                      xmlns="http://www.w3.org/2000/svg"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0 0 16 9.5 6.5 6.5 0 1 0 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"
+                      ></path></svg></span
+                ></accordion-entry-search-icon>
+                <div class="kjGX2">
+                  <span
+                    ><div class="BNeawe s3v9rd AP7Wnd lRVwie">
+                      Melpomene and Thalia
+                    </div></span
+                  >
+                </div></a
+              >
+            </div>
+          </div>
+          <div class="x54gtf"></div>
+          <div>
+            <div class="gGQDvd iIWm4b">
+              <a
+                class="Q71vJc"
+                href="/search?q=Comedy+and+tragedy+masks+meaning&amp;sa=X&amp;ved=2ahUKEwjkwN_BpZH4AhW2TWwGHUiCCcgQ1QJ6BAgDEAw"
+                ><accordion-entry-search-icon
+                  ><span
+                    class="ieB2Dd S003Ke ZoN4Lb z1asCe MZy1Rb"
+                    style="height: 20px; line-height: 20px; width: 20px"
+                    ><svg
+                      focusable="false"
+                      xmlns="http://www.w3.org/2000/svg"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0 0 16 9.5 6.5 6.5 0 1 0 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"
+                      ></path></svg></span
+                ></accordion-entry-search-icon>
+                <div class="kjGX2">
+                  <span
+                    ><div class="BNeawe s3v9rd AP7Wnd lRVwie">
+                      Comedy and tragedy masks meaning
+                    </div></span
+                  >
+                </div></a
+              >
+            </div>
+          </div>
+          <div class="x54gtf"></div>
+          <div>
+            <div class="gGQDvd iIWm4b">
+              <a
+                class="Q71vJc"
+                href="/search?q=Greek+tragedy+masks&amp;sa=X&amp;ved=2ahUKEwjkwN_BpZH4AhW2TWwGHUiCCcgQ1QJ6BAgDEA4"
+                ><accordion-entry-search-icon
+                  ><span
+                    class="ieB2Dd S003Ke ZoN4Lb z1asCe MZy1Rb"
+                    style="height: 20px; line-height: 20px; width: 20px"
+                    ><svg
+                      focusable="false"
+                      xmlns="http://www.w3.org/2000/svg"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0 0 16 9.5 6.5 6.5 0 1 0 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"
+                      ></path></svg></span
+                ></accordion-entry-search-icon>
+                <div class="kjGX2">
+                  <span
+                    ><div class="BNeawe s3v9rd AP7Wnd lRVwie">
+                      Greek tragedy masks
+                    </div></span
+                  >
+                </div></a
+              >
+            </div>
+          </div>
+          <div class="x54gtf"></div>
+          <div>
+            <div class="gGQDvd iIWm4b">
+              <a
+                class="Q71vJc"
+                href="/search?q=Melpomene+and+Thalia+masks&amp;sa=X&amp;ved=2ahUKEwjkwN_BpZH4AhW2TWwGHUiCCcgQ1QJ6BAgDEBA"
+                ><accordion-entry-search-icon
+                  ><span
+                    class="ieB2Dd S003Ke ZoN4Lb z1asCe MZy1Rb"
+                    style="height: 20px; line-height: 20px; width: 20px"
+                    ><svg
+                      focusable="false"
+                      xmlns="http://www.w3.org/2000/svg"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0 0 16 9.5 6.5 6.5 0 1 0 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"
+                      ></path></svg></span
+                ></accordion-entry-search-icon>
+                <div class="kjGX2">
+                  <span
+                    ><div class="BNeawe s3v9rd AP7Wnd lRVwie">
+                      Melpomene and Thalia masks
+                    </div></span
+                  >
+                </div></a
+              >
+            </div>
+          </div>
+        </div>
+      </div>
+      <footer>
+        <div>
+          <div class="ZINbbc xpd O9g5cc uUPGi BmP5tf">
+            <div class="nMymef MUxGbd lyLwlc">
+              <a
+                class="nBDE1b G5eFlf"
+                href="/search?q=the+greek+drama+masks+represent+all+of+the+following+figures+(Melpomene+OR+polyhymnia+OR+thalia)&amp;ei=2f-ZYqTwK7abseMPyISmwAw&amp;start=10&amp;sa=N"
+                aria-label="Next page"
+                >Next &gt;</a
+              >
+            </div>
+          </div>
+        </div>
+        <div id="EOlPnc">
+          <div class="Srfpq">
+            <div>
+              <span class="EYqSq unknown_loc"></span
+              ><span class="dfB0uf">Ujjain, Madhya Pradesh</span>
+            </div>
+            <span>From your IP address</span><span>&nbsp;-&nbsp;</span
+            ><a
+              href="/url?url=https://support.google.com/websearch%3Fp%3Dws_settings_location%26hl%3Den-IN&amp;rct=j&amp;q=&amp;esrc=s&amp;sa=U&amp;ved=0ahUKEwjkwN_BpZH4AhW2TWwGHUiCCcgQty4IhAE&amp;usg=AOvVaw0SI5JEmtnbM7rlgEh_j-Jh"
+              >Learn more</a
+            >
+          </div>
+          <div>
+            <a
+              href="/url?url=https://accounts.google.com/ServiceLogin%3Fcontinue%3Dhttps://www.google.com/search%253Fq%253Dthe%252Bgreek%252Bdrama%252Bmasks%252Brepresent%252Ball%252Bof%252Bthe%252Bfollowing%252Bfigures%252B(Melpomene%252BOR%252Bpolyhymnia%252BOR%252Bthalia)%26hl%3Den&amp;rct=j&amp;q=&amp;esrc=s&amp;sa=U&amp;ved=0ahUKEwjkwN_BpZH4AhW2TWwGHUiCCcgQxs8CCIUB&amp;usg=AOvVaw39PTeDowbZrNa0OFV8GmoJ"
+              >Sign in</a
+            >
+          </div>
+          <div>
+            <a
+              class="xeDNfc"
+              href="https://www.google.com/preferences?hl=en-IN&amp;fg=1&amp;sa=X&amp;ved=0ahUKEwjkwN_BpZH4AhW2TWwGHUiCCcgQ5fUCCIYB"
+              >Settings</a
+            ><a
+              class="xeDNfc"
+              href="https://policies.google.com/privacy?hl=en-IN&amp;fg=1"
+              >Privacy</a
+            ><a
+              class="xeDNfc"
+              href="https://policies.google.com/terms?hl=en-IN&amp;fg=1"
+              >Terms</a
+            >
+          </div>
+        </div>
+      </footer>
+      <script nonce="2a_C1WLNDB0JVp66ob93Wg">
+        (function () {
+          var hl = "en-IN";
+          (function () {
+            var f = this || self,
+              g = function (a) {
+                return a;
+              };
+            var h,
+              k = function () {
+                if (void 0 === h) {
+                  var a = null,
+                    b = f.trustedTypes;
+                  if (b && b.createPolicy) {
+                    try {
+                      a = b.createPolicy("goog#html", {
+                        createHTML: g,
+                        createScript: g,
+                        createScriptURL: g,
+                      });
+                    } catch (c) {
+                      f.console && f.console.error(c.message);
+                    }
+                    h = a;
+                  } else h = a;
+                }
+                return h;
+              };
+            var p = function (a, b) {
+                this.h = (a === l && b) || "";
+                this.g = m;
+              },
+              q = function (a) {
+                return a instanceof p && a.constructor === p && a.g === m
+                  ? a.h
+                  : "type_error:Const";
+              },
+              m = {},
+              l = {};
+            var t = function (a, b) {
+              this.g = b === r ? a : "";
+            };
+            t.prototype.toString = function () {
+              return this.g + "";
+            };
+            var u = function (a) {
+                return a instanceof t && a.constructor === t
+                  ? a.g
+                  : "type_error:TrustedResourceUrl";
+              },
+              y = function () {
+                var a = {},
+                  b = q(new p(l, "/complete/search"));
+                if (!v.test(b)) throw Error("a`" + b);
+                var c = b.replace(w, function (e, d) {
+                  if (!Object.prototype.hasOwnProperty.call(a, d))
+                    throw Error("b`" + d + "`" + b + "`" + JSON.stringify(a));
+                  e = a[d];
+                  return e instanceof p ? q(e) : encodeURIComponent(String(e));
+                });
+                return x(c);
+              },
+              w = /%{(\w+)}/g,
+              v = RegExp(
+                "^((https:)?//[0-9a-z.:[\\]-]+/|/[^/\\\\]|[^:/\\\\%]+/|[^:/\\\\%]*[?#]|about:blank#)",
+                "i"
+              ),
+              z = /^([^?#]*)(\?[^#]*)?(#[\s\S]*)?/,
+              r = {},
+              x = function (a) {
+                var b = k();
+                a = b ? b.createScriptURL(a) : a;
+                return new t(a, r);
+              },
+              A = function (a, b, c) {
+                if (null == c) return b;
+                if ("string" === typeof c)
+                  return c ? a + encodeURIComponent(c) : "";
+                for (var e in c)
+                  if (Object.prototype.hasOwnProperty.call(c, e)) {
+                    var d = c[e];
+                    d = Array.isArray(d) ? d : [d];
+                    for (var n = 0; n < d.length; n++) {
+                      var P = d[n];
+                      null != P &&
+                        (b || (b = a),
+                        (b +=
+                          (b.length > a.length ? "&" : "") +
+                          encodeURIComponent(e) +
+                          "=" +
+                          encodeURIComponent(String(P))));
+                    }
+                  }
+                return b;
+              };
+            var B = {},
+              C = function (a, b, c) {
+                this.g = c === B ? a : "";
+              };
+            C.prototype.toString = function () {
+              return this.g.toString();
+            };
+            var D = function (a) {
+              var b = k();
+              a = b ? b.createHTML(a) : a;
+              return new C(a, null, B);
+            };
+            function E(a, b) {
+              if (void 0 !== a.tagName) {
+                if ("script" === a.tagName.toLowerCase()) throw Error("c");
+                if ("style" === a.tagName.toLowerCase()) throw Error("d");
+              }
+              a.innerHTML =
+                b instanceof C && b.constructor === C
+                  ? b.g
+                  : "type_error:SafeHtml";
+            }
+            var F = document.querySelector(".l"),
+              G = document.querySelector("#sf"),
+              H = G.querySelector(".sbc"),
+              I = G.querySelector("[type=text]"),
+              J = G.querySelector("[type=submit]"),
+              K = G.querySelector(".sc"),
+              L = G.querySelector(".x"),
+              M = I.value,
+              N = [],
+              O = -1,
+              Q = M,
+              R,
+              S,
+              T;
+            M || (L && (L.style.display = "none"), U(!1));
+            function U(a) {
+              if (H.classList.contains("esbc")) {
+                var b = H.classList.contains("chsbc"),
+                  c = H.classList.contains("rtlsbc");
+                a &&
+                  ((K.style.display = "block"),
+                  b
+                    ? ((G.style.borderRadius = "20px 20px 0 0"),
+                      (K.style.borderBottom = "1px solid #DFE1E5"),
+                      (J.style.borderRadius = c ? "20px 0 0 0" : "0 20px 0 0"))
+                    : (H.style.borderRadius = c ? "0 8px 0 0" : "8px 0 0 0"));
+                a ||
+                  ((K.style.display = "none"),
+                  b
+                    ? ((G.style.borderRadius = "20px"),
+                      (K.style.borderBottom = "none"),
+                      (J.style.borderRadius = c
+                        ? "20px 0 0 20px"
+                        : "0 20px 20px 0"))
+                    : (H.style.borderRadius = c
+                        ? "0 8px 8px 0"
+                        : "8px 0 0 8px"));
+              }
+            }
+            function V() {
+              G.querySelector("[name=oq]").value = Q;
+              G.querySelector("[name=aqs]").value =
+                "heirloom-srp." +
+                (0 <= O ? O : "") +
+                "." +
+                (0 < N.length ? "0l" + N.length : "");
+            }
+            function W() {
+              R = null;
+              if (S) {
+                var a = {
+                  client: "heirloom-srp",
+                  hl: hl,
+                  json: "t",
+                  callback: "hS",
+                  q: S,
+                };
+                "undefined" !== typeof ds && ds && (a.ds = ds);
+                var b = document;
+                var c = "SCRIPT";
+                "application/xhtml+xml" === b.contentType &&
+                  (c = c.toLowerCase());
+                c = b.createElement(c);
+                b = y();
+                b = z.exec(u(b).toString());
+                var e = b[3] || "";
+                a = x(b[1] + A("?", b[2] || "", a) + A("#", e));
+                c.src = u(a);
+                var d, n;
+                (d = (a =
+                  null ==
+                  (n = (d = (
+                    (c.ownerDocument && c.ownerDocument.defaultView) ||
+                    window
+                  ).document).querySelector)
+                    ? void 0
+                    : n.call(d, "script[nonce]"))
+                  ? a.nonce || a.getAttribute("nonce") || ""
+                  : "") && c.setAttribute("nonce", d);
+                document.body.appendChild(c);
+                S = null;
+                R = setTimeout(W, 500);
+              }
+            }
+            function X() {
+              for (; K.firstChild; ) K.removeChild(K.firstChild);
+              N = [];
+              O = -1;
+              U(!1);
+            }
+            function Y() {
+              var a = K.querySelector(".scs");
+              a && (a.className = "");
+              0 <= O
+                ? ((a = K.childNodes[O]),
+                  (a.className = "scs"),
+                  (M = a.textContent))
+                : (M = Q);
+              I.value = M;
+            }
+            I.addEventListener(
+              "focus",
+              function () {
+                F && (F.style.display = "none");
+              },
+              !1
+            );
+            I.addEventListener(
+              "blur",
+              function () {
+                X();
+                F && (F.style.display = "");
+              },
+              !1
+            );
+            I.addEventListener(
+              "keyup",
+              function (a) {
+                M = I.value;
+                T = !1;
+                13 === a.which
+                  ? V()
+                  : 27 === a.which
+                  ? (X(), F && (F.style.display = ""), (M = Q), (I.value = M))
+                  : 40 === a.which
+                  ? (O++, O >= N.length && (O = -1), Y())
+                  : 38 === a.which
+                  ? (O--, -1 > O && (O = N.length - 1), Y())
+                  : (a = M)
+                  ? (L && (L.style.display = ""), (S = a), R || W(), (Q = a))
+                  : (L && (L.style.display = "none"),
+                    U(!1),
+                    X(),
+                    (Q = ""),
+                    (T = !0));
+              },
+              !1
+            );
+            J.addEventListener("click", V, !1);
+            L.addEventListener(
+              "click",
+              function () {
+                I.value = "";
+                L.style.display = "none";
+                U(!1);
+              },
+              !1
+            );
+            H.addEventListener(
+              "click",
+              function () {
+                I.focus();
+              },
+              !1
+            );
+            window.hS = function (a) {
+              if (!T) {
+                X();
+                0 === a[1].length && U(!1);
+                for (var b = 0; b < a[1].length; b++) {
+                  var c = a[1][b][0],
+                    e = document.createElement("div");
+                  E(e, D(c));
+                  e.addEventListener(
+                    "mousedown",
+                    function (d) {
+                      d.preventDefault();
+                      return !1;
+                    },
+                    !1
+                  );
+                  c = c.replace(/<\/?b>/g, "");
+                  e.addEventListener(
+                    "click",
+                    (function (d) {
+                      return function () {
+                        O = d;
+                        V();
+                        Y();
+                        X();
+                        G.submit();
+                      };
+                    })(b),
+                    !1
+                  );
+                  e.addEventListener(
+                    "mouseover",
+                    (function (d) {
+                      return function () {
+                        O !== d && ((O = d), Y());
+                      };
+                    })(b),
+                    !1
+                  );
+                  K.appendChild(e);
+                  U(!0);
+                  N.push(c);
+                }
+              }
+            };
+          }.call(this));
+        })();
+        (function () {
+          function b(a) {
+            for (a = a.target || a.srcElement; a && "A" !== a.nodeName; )
+              a = a.parentElement;
+            a &&
+              (a.href || "").match(/\/search.*[?&]tbm=isch/) &&
+              ((a.href += "&biw=" + document.documentElement.clientWidth),
+              (a.href += "&bih=" + document.documentElement.clientHeight));
+          }
+          document.addEventListener("click", b, !1);
+          document.addEventListener("touchStart", b, !1);
+        }.call(this));
+      </script>
+    </div>
+    <!-- cctlcm 5 cctlcm --><textarea
+      class="csi"
+      name="csi"
+      style="display: none"
+    ></textarea>
+    <script nonce="2a_C1WLNDB0JVp66ob93Wg">
+      (function () {
+        var e = "2f-ZYqTwK7abseMPyISmwAw";
+        var sn = "web";
+        var timl = false;
+        (function () {
+          function y(a) {
+            if (!a || z(a)) return 0;
+            if (!a.getBoundingClientRect) return 1;
+            var c = function (b) {
+              return b.getBoundingClientRect();
+            };
+            return A(a, c) ? 0 : K(a, c);
+          }
+          function A(a, c) {
+            var b;
+            a: {
+              for (b = a; b && null !== b; b = b.parentElement)
+                if ("hidden" === b.style.overflow) break a;
+              b = null;
+            }
+            if (!b) return !1;
+            a = c(a);
+            c = c(b);
+            return (
+              a.bottom < c.top ||
+              a.top >= c.bottom ||
+              a.right < c.left ||
+              a.left >= c.right
+            );
+          }
+          function z(a) {
+            return "none" === a.style.display
+              ? !0
+              : document.defaultView && document.defaultView.getComputedStyle
+              ? ((a = document.defaultView.getComputedStyle(a)),
+                !!a &&
+                  ("hidden" === a.visibility ||
+                    ("0px" === a.height && "0px" === a.width)))
+              : !1;
+          }
+          function K(a, c) {
+            var b = c(a);
+            a = b.left + window.pageXOffset;
+            c = b.top + window.pageYOffset;
+            var f = b.width;
+            b = b.height;
+            var g = 0;
+            if (0 >= b && 0 >= f) return g;
+            var p = window.innerHeight || document.documentElement.clientHeight;
+            0 > c + b ? (g = 2) : c >= p && (g = 4);
+            if (
+              0 > a + f ||
+              a >= (window.innerWidth || document.documentElement.clientWidth)
+            )
+              g |= 8;
+            g || ((g = 1), c + b > p && (g |= 4));
+            return g;
+          }
+          var L = e,
+            M = sn,
+            N = "undefined" === typeof de ? !0 : !1 !== de,
+            O = [];
+          function P(a, c, b) {
+            a =
+              "/gen_204?atyp=csi&s=" +
+              (M || "web") +
+              "&t=" +
+              a +
+              ("&lite=1&ei=" +
+                L +
+                "&conn=" +
+                (window.navigator && window.navigator.connection
+                  ? window.navigator.connection.type
+                  : -1) +
+                c);
+            c = "&rt=";
+            for (var f in b) (a += "" + c + f + "." + b[f]), (c = ",");
+            return a;
+          }
+          function Q(a) {
+            a = { prt: a };
+            window.wsrt && (a.wsrt = window.wsrt);
+            return a;
+          }
+          function R(a) {
+            window.ping ? window.ping(a) : (new Image().src = a);
+          }
+          (function () {
+            for (
+              var a = new Date().getTime() - window.start,
+                c = Q(a),
+                b = 0,
+                f = 0,
+                g = 0,
+                p = document.getElementsByTagName("img"),
+                q = N
+                  ? "&biw=" + window.innerWidth + "&bih=" + window.innerHeight
+                  : "",
+                S = function (h, r) {
+                  h.onload = function () {
+                    f = new Date().getTime() - window.start;
+                    r && ++u == g && ((b = f), B());
+                    h.onload = null;
+                  };
+                },
+                B = function () {
+                  q += "&ima=" + g;
+                  c.aft = b;
+                  R(P("aft", q, c));
+                },
+                u = 0,
+                T = 0,
+                d = void 0;
+              (d = p[T++]);
+
+            ) {
+              var t = y(d),
+                n = !!(t & 1);
+              n && ++g;
+              var l = d.hasAttribute("data-ilite"),
+                v = d.hasAttribute("data-deferred") || l,
+                C = d.getAttribute("data-src") || d.getAttribute("data-lzysrc"),
+                D = !v && C;
+              O.push([
+                t,
+                v,
+                D,
+                (google.ldi && d.id && google.ldi[d.id]) || (l && C),
+              ]);
+              l =
+                ((t = d.complete && (l || (!v && !(n && D)))) &&
+                  Number(d.getAttribute("data-iml"))) ||
+                0;
+              t && l
+                ? (n && ++u,
+                  l &&
+                    ((d = l - window.start),
+                    n && (b = Math.max(b, d)),
+                    (f = Math.max(f, d))))
+                : S(d, n);
+            }
+            b || (b = a);
+            f || (f = b);
+            u == g && B();
+            google.rglh && google.rglh();
+            window.addEventListener(
+              "load",
+              function () {
+                window.setTimeout(function () {
+                  c.ol = new Date().getTime() - window.start;
+                  timl && (c.iml = f);
+                  var h = window.performance && window.performance.timing;
+                  h &&
+                    ((c.rqst = h.responseEnd - h.requestStart),
+                    (c.rspt = h.responseEnd - h.responseStart));
+                  for (
+                    var r = (h = 0), E = 0, F = 0, G = 0, H = 0, U = 0, k;
+                    (k = O[U++]);
+
+                  ) {
+                    var m = k[0],
+                      w = k[1],
+                      I = k[2];
+                    k = k[3];
+                    var V = 0 == m,
+                      x = m & 8,
+                      J = m & 4;
+                    (m = 1 == m || 2 == m || (x && !J)) &&
+                      !x &&
+                      ((w && !k) || ++E, I && ++H);
+                    w && (m && k && ++h, J && !k && ++r);
+                    V || x ? I || ++G : w || ++F;
+                  }
+                  q +=
+                    "&ime=" +
+                    E +
+                    "&imel=" +
+                    H +
+                    ("&imex=" + F + "&imeh=" + G) +
+                    ("&imea=" + h + "&imeb=" + r);
+                  R(P("all", q, c));
+                }, 0);
+              },
+              !1
+            );
+          })();
+        }.call(this));
+      })();
+    </script>
+    <script nonce="2a_C1WLNDB0JVp66ob93Wg">
+      function _setImagesSrc(e, d) {
+        function f(b) {
+          b.onerror = function () {
+            b.style.display = "none";
+          };
+          b.src = d;
+        }
+        for (var g = 0, a = void 0; (a = e[g++]); ) {
+          var c =
+            document.getElementById(a) ||
+            document.querySelector('img[data-iid="' + a + '"]');
+          c
+            ? ((a = void 0),
+              (null == (a = google.c) ? 0 : a.setup) && google.c.setup(c),
+              f(c))
+            : ((google.iir = google.iir || {}), (google.iir[a] = d));
+        }
+      }
+      "undefined" == typeof window.google && (window.google = {});
+    </script>
+    <script nonce="2a_C1WLNDB0JVp66ob93Wg">
+      (function () {
+        var s =
+          "data:image/jpeg;base64,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\x3d";
+        var i = ["dimg_1"];
+        _setImagesSrc(i, s);
+      })();
+    </script>
+    <script nonce="2a_C1WLNDB0JVp66ob93Wg">
+      (function () {
+        var s =
+          "data:image/jpeg;base64,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";
+        var i = ["dimg_3"];
+        _setImagesSrc(i, s);
+      })();
+    </script>
+    <script nonce="2a_C1WLNDB0JVp66ob93Wg">
+      (function () {
+        var s =
+          "data:image/jpeg;base64,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\x3d\x3d";
+        var i = ["dimg_5"];
+        _setImagesSrc(i, s);
+      })();
+    </script>
+    <script nonce="2a_C1WLNDB0JVp66ob93Wg">
+      (function () {
+        var s =
+          "data:image/jpeg;base64,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\x3d\x3d";
+        var i = ["dimg_7"];
+        _setImagesSrc(i, s);
+      })();
+    </script>
+    <script nonce="2a_C1WLNDB0JVp66ob93Wg">
+      (function () {
+        var s =
+          "data:image/jpeg;base64,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\x3d";
+        var i = ["dimg_9"];
+        _setImagesSrc(i, s);
+      })();
+    </script>
+    <script nonce="2a_C1WLNDB0JVp66ob93Wg">
+      (function () {
+        var s =
+          "data:image/jpeg;base64,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";
+        var i = ["dimg_11"];
+        _setImagesSrc(i, s);
+      })();
+    </script>
+    <script nonce="2a_C1WLNDB0JVp66ob93Wg">
+      (function () {
+        var s =
+          "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYAgMAAACdGdVrAAAADFBMVEVMaXFChfRChfRChfT0tCPZAAAAA3RSTlMAgFJEkGxNAAAAL0lEQVR4AWPADxgdwBT3BTDF9AUiuhdC6WNK/v///y+UggrClSA07EWVglmEFwAA5eYSExeCwigAAAAASUVORK5CYII\x3d";
+        var i = ["dimg_13"];
+        _setImagesSrc(i, s);
+      })();
+    </script>
+    <script nonce="2a_C1WLNDB0JVp66ob93Wg">
+      (function () {
+        var e = "2f-ZYqTwK7abseMPyISmwAw";
+        (function () {
+          var a = e;
+          2 ===
+            (window.performance &&
+              window.performance.navigation &&
+              window.performance.navigation.type) &&
+            window.ping("/gen_204?ct=backbutton&ei=" + a);
+        }.call(this));
+      })();
+      (function () {
+        var b = [
+          function () {
+            google.tick && google.tick("load", "dcl");
+          },
+        ];
+        google.dclc = function (a) {
+          b.length ? b.push(a) : a();
+        };
+        function c() {
+          for (var a = b.shift(); a; ) a(), (a = b.shift());
+        }
+        window.addEventListener
+          ? (document.addEventListener("DOMContentLoaded", c, !1),
+            window.addEventListener("load", c, !1))
+          : window.attachEvent && window.attachEvent("onload", c);
+      }.call(this));
+      window.jsl = window.jsl || {};
+      window.jsl.dh = function (a, b, f) {
+        try {
+          var g = document.getElementById(a);
+          if (g) (g.innerHTML = b), f && f();
+          else {
+            var c = {
+              id: a,
+              script: String(!!f),
+              milestone: String(google.jslm || 0),
+            };
+            google.jsla && (c.async = google.jsla);
+            var h = a.indexOf("_"),
+              d = 0 < h ? a.substring(0, h) : "",
+              k = document.createElement("div");
+            k.innerHTML = b;
+            var e = k.children[0];
+            if (
+              e &&
+              ((c.tag = e.tagName),
+              (c["class"] = String(e.className || null)),
+              (c.name = String(e.getAttribute("jsname"))),
+              d)
+            ) {
+              a = [];
+              var l = document.querySelectorAll('[id^="' + d + '_"]');
+              for (b = 0; b < l.length; ++b) a.push(l[b].id);
+              c.ids = a.join(",");
+            }
+            google.ml(
+              Error(d ? "Missing ID with prefix " + d : "Missing ID"),
+              !1,
+              c
+            );
+          }
+        } catch (m) {
+          google.ml(m, !0, { "jsl.dh": !0 });
+        }
+      };
+      (function () {
+        var x = false;
+        google.jslm = x ? 2 : 1;
+      })();
+      (function () {
+        (function () {
+          google.csct = {};
+          google.csct.ps =
+            "AOvVaw0j-IgcpdbKDb0StYHyJdmH\x26ust\x3d1654346073834193";
+        })();
+      })();
+      (function () {
+        (function () {
+          google.csct.rd = true;
+        })();
+      })();
+      (function () {
+        (function () {
+          google.csct.rl = true;
+        })();
+      })();
+      (function () {
+        (function () {
+          google.csct.pi = true;
+        })();
+      })();
+      (function () {
+        window.xp = function (b) {
+          function f(k, g, h) {
+            return "xp" + ("x" == g ? "c" : "x") + h;
+          }
+          for (var c = /\bxp(x|c)(\d?)\b/, a = b; a; ) {
+            var e = a.className,
+              d = e.match(c);
+            if (d) {
+              d = "c" == d[1];
+              a.className = e.replace(c, f);
+              b && b.setAttribute("aria-expanded", d);
+              if (d)
+                for (
+                  b = a.getElementsByTagName("img"), c = 0;
+                  c < b.length;
+                  ++c
+                )
+                  if (((a = b[c]), (e = a.getAttribute("data-ll"))))
+                    (a.src = e), a.removeAttribute("data-ll");
+              break;
+            }
+            a = a.parentElement;
+          }
+        };
+      })();
+      (function () {
+        (function () {
+          window.logVe = function (a) {
+            a &&
+              a.attributes["data-ved"] &&
+              window.ping("/gen_204?ved=" + a.attributes["data-ved"].value);
+          };
+        }.call(this));
+      })();
+      (function () {
+        (function () {
+          var id = "tsuid1";
+          var lve = true;
+          (function () {
+            var e =
+                "undefined" != typeof navigator &&
+                !/Opera/.test(navigator.userAgent) &&
+                /WebKit/.test(navigator.userAgent),
+              f = { A: 1, INPUT: 1, TEXTAREA: 1, SELECT: 1, BUTTON: 1 },
+              g = { Enter: 13, " ": 32 },
+              h = {
+                A: 13,
+                BUTTON: 0,
+                CHECKBOX: 32,
+                COMBOBOX: 13,
+                FILE: 0,
+                GRIDCELL: 13,
+                LINK: 13,
+                LISTBOX: 13,
+                MENU: 0,
+                MENUBAR: 0,
+                MENUITEM: 0,
+                MENUITEMCHECKBOX: 0,
+                MENUITEMRADIO: 0,
+                OPTION: 0,
+                RADIO: 32,
+                RADIOGROUP: 32,
+                RESET: 0,
+                SUBMIT: 0,
+                SWITCH: 32,
+                TAB: 0,
+                TREE: 13,
+                TREEITEM: 13,
+              },
+              k = { CHECKBOX: !0, FILE: !0, OPTION: !0, RADIO: !0 },
+              l = {
+                COLOR: !0,
+                DATE: !0,
+                DATETIME: !0,
+                "DATETIME-LOCAL": !0,
+                EMAIL: !0,
+                MONTH: !0,
+                NUMBER: !0,
+                PASSWORD: !0,
+                RANGE: !0,
+                SEARCH: !0,
+                TEL: !0,
+                TEXT: !0,
+                TEXTAREA: !0,
+                TIME: !0,
+                URL: !0,
+                WEEK: !0,
+              };
+            document.getElementById(id).onclick = function () {
+              window.xp(this);
+              lve && window.logVe(this);
+            };
+            document.getElementById(id).onkeydown = function (d) {
+              var c = d.which || d.keyCode;
+              !c && d.key && (c = g[d.key]);
+              e && 3 == c && (c = 13);
+              if (13 != c && 32 != c) c = !1;
+              else {
+                var a = d.target || d.srcElement;
+                !a.getAttribute && a.parentNode && (a = a.parentNode);
+                var b;
+                if (!(b = "keydown" != d.type)) {
+                  if ((b = "getAttribute" in a))
+                    b = !(
+                      (a.getAttribute("type") || a.tagName).toUpperCase() in l
+                    );
+                  b = !(
+                    b &&
+                    !(
+                      "BUTTON" == a.tagName.toUpperCase() ||
+                      (a.type && "FILE" == a.type.toUpperCase())
+                    ) &&
+                    !a.isContentEditable
+                  );
+                }
+                (b =
+                  b ||
+                  d.ctrlKey ||
+                  d.shiftKey ||
+                  d.altKey ||
+                  d.metaKey ||
+                  ((a.getAttribute("type") || a.tagName).toUpperCase() in k &&
+                    32 == c)) ||
+                  ((b = a.tagName in f) ||
+                    ((b = a.getAttributeNode("tabindex")),
+                    (b = null != b && b.specified)),
+                  (b = !(b && !a.disabled)));
+                if (b) c = !1;
+                else {
+                  b = (
+                    a.getAttribute("role") ||
+                    a.type ||
+                    a.tagName
+                  ).toUpperCase();
+                  var m = !(b in h) && 13 == c;
+                  a = "INPUT" != a.tagName.toUpperCase() || !!a.type;
+                  c = (0 == h[b] % c || m) && a;
+                }
+              }
+              c &&
+                (d.preventDefault(),
+                window.xp(this),
+                lve && window.logVe(this));
+            };
+          }.call(this));
+        })();
+      })();
+      (function () {
+        window.jsl = window.jsl || {};
+        window.jsl.dh =
+          window.jsl.dh ||
+          function (i, c, d) {
+            try {
+              var e = document.getElementById(i);
+              if (e) {
+                e.innerHTML = c;
+                if (d) {
+                  d();
+                }
+              } else {
+                if (window.jsl.el) {
+                  window.jsl.el(new Error("Missing ID."), { id: i });
+                }
+              }
+            } catch (e) {
+              if (window.jsl.el) {
+                window.jsl.el(new Error("jsl.dh"));
+              }
+            }
+          };
+      })();
+      (function () {
+        window.jsl.dh(
+          "accdef_1",
+          "\x3cdiv\x3e\x3cdiv style\x3d\x22padding-bottom:12px;padding-top:0px\x22 class\x3d\x22hwc kCrYT\x22\x3e\x3cdiv class\x3d\x22yStFkb\x22\x3e\x3cdiv class\x3d\x22ZINbbc xpd O9g5cc uUPGi\x22\x3e\x3cdiv class\x3d\x22kCrYT\x22\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3e\x3cdiv class\x3d\x22Ey4n2\x22\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3e\x3cspan class\x3d\x22atOwb UMOHqf\x22\x3eThe Tragedy mask\x3c/span\x3e is known as Melpomene, who is the Muse of Tragedy. Melpomene is depicted with the tragedy mask in one hand, and a knife or a club in the other. The masks and costumes were highly stylized and exaggerated making the characters easy to identify even from a great distance.\x3c/div\x3e\x3c/div\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3e\x3csub class\x3d\x22Y6v1e xUrNXd UMOHqf\x22\x3e7 Mar 2016\x3c/sub\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3cdiv class\x3d\x22x54gtf\x22\x3e\x3c/div\x3e\x3cdiv class\x3d\x22kCrYT\x22\x3e\x3ca href\x3d\x22/url?esrc\x3ds\x26amp;q\x3d\x26amp;rct\x3dj\x26amp;sa\x3dU\x26amp;url\x3dhttps://thegreekdesigners.com/2016/03/07/drama-masks-thalia-melpomene/\x26amp;ved\x3d2ahUKEwjkwN_BpZH4AhW2TWwGHUiCCcgQFXoECAYQBQ\x26amp;usg\x3dAOvVaw1BR0IZ7V8MGmwIt7jsB8qF\x22\x3e\x3cspan\x3e\x3cdiv class\x3d\x22BNeawe vvjwJb AP7Wnd\x22\x3e\x3cspan class\x3d\x22UMOHqf EDgFbc\x22\x3eDrama Masks: Thalia + Melpomene - The Greek Designers\x3c/span\x3e\x3c/div\x3e\x3c/span\x3e\x3cspan\x3e\x3cdiv class\x3d\x22BNeawe UPmit AP7Wnd\x22\x3ethegreekdesigners.com \u203a 2016/03/07 \u203a drama-masks-thalia-melpomene\x3c/div\x3e\x3c/span\x3e\x3c/a\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22P1NWSe\x22\x3e\x3cdiv class\x3d\x22wOMIed nkPlDb\x22\x3e\x3cspan class\x3d\x22JhFlyf VQFmSd\x22\x3e\x3ca class\x3d\x22f4J0H\x22 href\x3d\x22https://www.google.com/search?ei\x3d2f-ZYqTwK7abseMPyISmwAw\x26amp;q\x3dWhich+mask+is+Melpomene?\x26amp;sa\x3dX\x26amp;ved\x3d2ahUKEwjkwN_BpZH4AhW2TWwGHUiCCcgQzmd6BAgGEAc\x22\x3eMore results\x3c/a\x3e\x3c/span\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e"
+        );
+      })();
+      (function () {
+        (function () {
+          var id = "tsuid2";
+          var lve = true;
+          (function () {
+            var e =
+                "undefined" != typeof navigator &&
+                !/Opera/.test(navigator.userAgent) &&
+                /WebKit/.test(navigator.userAgent),
+              f = { A: 1, INPUT: 1, TEXTAREA: 1, SELECT: 1, BUTTON: 1 },
+              g = { Enter: 13, " ": 32 },
+              h = {
+                A: 13,
+                BUTTON: 0,
+                CHECKBOX: 32,
+                COMBOBOX: 13,
+                FILE: 0,
+                GRIDCELL: 13,
+                LINK: 13,
+                LISTBOX: 13,
+                MENU: 0,
+                MENUBAR: 0,
+                MENUITEM: 0,
+                MENUITEMCHECKBOX: 0,
+                MENUITEMRADIO: 0,
+                OPTION: 0,
+                RADIO: 32,
+                RADIOGROUP: 32,
+                RESET: 0,
+                SUBMIT: 0,
+                SWITCH: 32,
+                TAB: 0,
+                TREE: 13,
+                TREEITEM: 13,
+              },
+              k = { CHECKBOX: !0, FILE: !0, OPTION: !0, RADIO: !0 },
+              l = {
+                COLOR: !0,
+                DATE: !0,
+                DATETIME: !0,
+                "DATETIME-LOCAL": !0,
+                EMAIL: !0,
+                MONTH: !0,
+                NUMBER: !0,
+                PASSWORD: !0,
+                RANGE: !0,
+                SEARCH: !0,
+                TEL: !0,
+                TEXT: !0,
+                TEXTAREA: !0,
+                TIME: !0,
+                URL: !0,
+                WEEK: !0,
+              };
+            document.getElementById(id).onclick = function () {
+              window.xp(this);
+              lve && window.logVe(this);
+            };
+            document.getElementById(id).onkeydown = function (d) {
+              var c = d.which || d.keyCode;
+              !c && d.key && (c = g[d.key]);
+              e && 3 == c && (c = 13);
+              if (13 != c && 32 != c) c = !1;
+              else {
+                var a = d.target || d.srcElement;
+                !a.getAttribute && a.parentNode && (a = a.parentNode);
+                var b;
+                if (!(b = "keydown" != d.type)) {
+                  if ((b = "getAttribute" in a))
+                    b = !(
+                      (a.getAttribute("type") || a.tagName).toUpperCase() in l
+                    );
+                  b = !(
+                    b &&
+                    !(
+                      "BUTTON" == a.tagName.toUpperCase() ||
+                      (a.type && "FILE" == a.type.toUpperCase())
+                    ) &&
+                    !a.isContentEditable
+                  );
+                }
+                (b =
+                  b ||
+                  d.ctrlKey ||
+                  d.shiftKey ||
+                  d.altKey ||
+                  d.metaKey ||
+                  ((a.getAttribute("type") || a.tagName).toUpperCase() in k &&
+                    32 == c)) ||
+                  ((b = a.tagName in f) ||
+                    ((b = a.getAttributeNode("tabindex")),
+                    (b = null != b && b.specified)),
+                  (b = !(b && !a.disabled)));
+                if (b) c = !1;
+                else {
+                  b = (
+                    a.getAttribute("role") ||
+                    a.type ||
+                    a.tagName
+                  ).toUpperCase();
+                  var m = !(b in h) && 13 == c;
+                  a = "INPUT" != a.tagName.toUpperCase() || !!a.type;
+                  c = (0 == h[b] % c || m) && a;
+                }
+              }
+              c &&
+                (d.preventDefault(),
+                window.xp(this),
+                lve && window.logVe(this));
+            };
+          }.call(this));
+        })();
+      })();
+      (function () {
+        window.jsl.dh(
+          "accdef_3",
+          "\x3cdiv\x3e\x3cdiv style\x3d\x22padding-bottom:12px;padding-top:0px\x22 class\x3d\x22hwc kCrYT\x22\x3e\x3cdiv class\x3d\x22yStFkb\x22\x3e\x3cdiv class\x3d\x22ZINbbc xpd O9g5cc uUPGi\x22\x3e\x3cdiv class\x3d\x22kCrYT\x22\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3eMasks served several important purposes in Ancient Greek theater: \x3cspan class\x3d\x22atOwb UMOHqf\x22\x3etheir exaggerated expressions helped define the characters the actors were playing\x3c/span\x3e; they allowed actors to play more than one role (or gender); they helped audience members in the distant seats see and, by projecting sound somewhat like a small megaphone ...\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3cdiv class\x3d\x22x54gtf\x22\x3e\x3c/div\x3e\x3cdiv class\x3d\x22kCrYT\x22\x3e\x3ca href\x3d\x22/url?esrc\x3ds\x26amp;q\x3d\x26amp;rct\x3dj\x26amp;sa\x3dU\x26amp;url\x3dhttps://artsedge.kennedy-center.org/interactives/greece/theater/playersProps.html\x26amp;ved\x3d2ahUKEwjkwN_BpZH4AhW2TWwGHUiCCcgQFXoECAYQDA\x26amp;usg\x3dAOvVaw0aFGBljRWr1a2XL_Q9Iv8u\x22\x3e\x3cspan\x3e\x3cdiv class\x3d\x22BNeawe vvjwJb AP7Wnd\x22\x3e\x3cspan class\x3d\x22UMOHqf EDgFbc\x22\x3eCity Dionysia - Masks, Costumes and Props - ArtsEdge\x3c/span\x3e\x3c/div\x3e\x3c/span\x3e\x3cspan\x3e\x3cdiv class\x3d\x22BNeawe UPmit AP7Wnd\x22\x3eartsedge.kennedy-center.org \u203a interactives \u203a greece \u203a theater \u203a playersProps\x3c/div\x3e\x3c/span\x3e\x3c/a\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22P1NWSe\x22\x3e\x3cdiv class\x3d\x22wOMIed nkPlDb\x22\x3e\x3cspan class\x3d\x22JhFlyf VQFmSd\x22\x3e\x3ca class\x3d\x22f4J0H\x22 href\x3d\x22https://www.google.com/search?ei\x3d2f-ZYqTwK7abseMPyISmwAw\x26amp;q\x3dWhat+did+masks+represent+in+Greek+Theatre?\x26amp;sa\x3dX\x26amp;ved\x3d2ahUKEwjkwN_BpZH4AhW2TWwGHUiCCcgQzmd6BAgGEA4\x22\x3eMore results\x3c/a\x3e\x3c/span\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e"
+        );
+      })();
+      (function () {
+        (function () {
+          var id = "tsuid3";
+          var lve = true;
+          (function () {
+            var e =
+                "undefined" != typeof navigator &&
+                !/Opera/.test(navigator.userAgent) &&
+                /WebKit/.test(navigator.userAgent),
+              f = { A: 1, INPUT: 1, TEXTAREA: 1, SELECT: 1, BUTTON: 1 },
+              g = { Enter: 13, " ": 32 },
+              h = {
+                A: 13,
+                BUTTON: 0,
+                CHECKBOX: 32,
+                COMBOBOX: 13,
+                FILE: 0,
+                GRIDCELL: 13,
+                LINK: 13,
+                LISTBOX: 13,
+                MENU: 0,
+                MENUBAR: 0,
+                MENUITEM: 0,
+                MENUITEMCHECKBOX: 0,
+                MENUITEMRADIO: 0,
+                OPTION: 0,
+                RADIO: 32,
+                RADIOGROUP: 32,
+                RESET: 0,
+                SUBMIT: 0,
+                SWITCH: 32,
+                TAB: 0,
+                TREE: 13,
+                TREEITEM: 13,
+              },
+              k = { CHECKBOX: !0, FILE: !0, OPTION: !0, RADIO: !0 },
+              l = {
+                COLOR: !0,
+                DATE: !0,
+                DATETIME: !0,
+                "DATETIME-LOCAL": !0,
+                EMAIL: !0,
+                MONTH: !0,
+                NUMBER: !0,
+                PASSWORD: !0,
+                RANGE: !0,
+                SEARCH: !0,
+                TEL: !0,
+                TEXT: !0,
+                TEXTAREA: !0,
+                TIME: !0,
+                URL: !0,
+                WEEK: !0,
+              };
+            document.getElementById(id).onclick = function () {
+              window.xp(this);
+              lve && window.logVe(this);
+            };
+            document.getElementById(id).onkeydown = function (d) {
+              var c = d.which || d.keyCode;
+              !c && d.key && (c = g[d.key]);
+              e && 3 == c && (c = 13);
+              if (13 != c && 32 != c) c = !1;
+              else {
+                var a = d.target || d.srcElement;
+                !a.getAttribute && a.parentNode && (a = a.parentNode);
+                var b;
+                if (!(b = "keydown" != d.type)) {
+                  if ((b = "getAttribute" in a))
+                    b = !(
+                      (a.getAttribute("type") || a.tagName).toUpperCase() in l
+                    );
+                  b = !(
+                    b &&
+                    !(
+                      "BUTTON" == a.tagName.toUpperCase() ||
+                      (a.type && "FILE" == a.type.toUpperCase())
+                    ) &&
+                    !a.isContentEditable
+                  );
+                }
+                (b =
+                  b ||
+                  d.ctrlKey ||
+                  d.shiftKey ||
+                  d.altKey ||
+                  d.metaKey ||
+                  ((a.getAttribute("type") || a.tagName).toUpperCase() in k &&
+                    32 == c)) ||
+                  ((b = a.tagName in f) ||
+                    ((b = a.getAttributeNode("tabindex")),
+                    (b = null != b && b.specified)),
+                  (b = !(b && !a.disabled)));
+                if (b) c = !1;
+                else {
+                  b = (
+                    a.getAttribute("role") ||
+                    a.type ||
+                    a.tagName
+                  ).toUpperCase();
+                  var m = !(b in h) && 13 == c;
+                  a = "INPUT" != a.tagName.toUpperCase() || !!a.type;
+                  c = (0 == h[b] % c || m) && a;
+                }
+              }
+              c &&
+                (d.preventDefault(),
+                window.xp(this),
+                lve && window.logVe(this));
+            };
+          }.call(this));
+        })();
+      })();
+      (function () {
+        window.jsl.dh(
+          "accdef_5",
+          "\x3cdiv\x3e\x3cdiv style\x3d\x22padding-bottom:12px;padding-top:0px\x22 class\x3d\x22hwc kCrYT\x22\x3e\x3cdiv class\x3d\x22yStFkb\x22\x3e\x3cdiv class\x3d\x22ZINbbc xpd O9g5cc uUPGi\x22\x3e\x3cdiv class\x3d\x22kCrYT\x22\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3e\x3cdiv class\x3d\x22Ey4n2\x22\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3e\x3cspan class\x3d\x22atOwb UMOHqf\x22\x3eThe name Melpomene represents the tragedy mask or Muse of Tragedy and the name Thalia represents the comedy mask or Muse of Comedy\x3c/span\x3e. Melpo is the shorter name for Melpomene, meaning a celebration of dance and song.\x3c/div\x3e\x3c/div\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3e\x3csub class\x3d\x22Y6v1e xUrNXd UMOHqf\x22\x3e21 Jun 2020\x3c/sub\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3cdiv class\x3d\x22x54gtf\x22\x3e\x3c/div\x3e\x3cdiv class\x3d\x22kCrYT\x22\x3e\x3ca href\x3d\x22/url?esrc\x3ds\x26amp;q\x3d\x26amp;rct\x3dj\x26amp;sa\x3dU\x26amp;url\x3dhttps://www.onstageblog.com/editorials/comedy-and-tragedy-masks-of-theatre\x26amp;ved\x3d2ahUKEwjkwN_BpZH4AhW2TWwGHUiCCcgQFXoECAYQEw\x26amp;usg\x3dAOvVaw0Ryxs6ZAAuMhzPEbRuX527\x22\x3e\x3cspan\x3e\x3cdiv class\x3d\x22BNeawe vvjwJb AP7Wnd\x22\x3e\x3cspan class\x3d\x22UMOHqf EDgFbc\x22\x3eThe Origins of the Comedy and Tragedy Masks of Theatre\x3c/span\x3e\x3c/div\x3e\x3c/span\x3e\x3cspan\x3e\x3cdiv class\x3d\x22BNeawe UPmit AP7Wnd\x22\x3ewww.onstageblog.com \u203a editorials \u203a comedy-and-tragedy-masks-of-theatre\x3c/div\x3e\x3c/span\x3e\x3c/a\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22P1NWSe\x22\x3e\x3cdiv class\x3d\x22wOMIed nkPlDb\x22\x3e\x3cspan class\x3d\x22JhFlyf VQFmSd\x22\x3e\x3ca class\x3d\x22f4J0H\x22 href\x3d\x22https://www.google.com/search?ei\x3d2f-ZYqTwK7abseMPyISmwAw\x26amp;q\x3dWhat+do+Melpomene+and+Thalia+symbolize+in+drama?\x26amp;sa\x3dX\x26amp;ved\x3d2ahUKEwjkwN_BpZH4AhW2TWwGHUiCCcgQzmd6BAgGEBU\x22\x3eMore results\x3c/a\x3e\x3c/span\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e"
+        );
+      })();
+      (function () {
+        (function () {
+          var id = "tsuid4";
+          var lve = true;
+          (function () {
+            var e =
+                "undefined" != typeof navigator &&
+                !/Opera/.test(navigator.userAgent) &&
+                /WebKit/.test(navigator.userAgent),
+              f = { A: 1, INPUT: 1, TEXTAREA: 1, SELECT: 1, BUTTON: 1 },
+              g = { Enter: 13, " ": 32 },
+              h = {
+                A: 13,
+                BUTTON: 0,
+                CHECKBOX: 32,
+                COMBOBOX: 13,
+                FILE: 0,
+                GRIDCELL: 13,
+                LINK: 13,
+                LISTBOX: 13,
+                MENU: 0,
+                MENUBAR: 0,
+                MENUITEM: 0,
+                MENUITEMCHECKBOX: 0,
+                MENUITEMRADIO: 0,
+                OPTION: 0,
+                RADIO: 32,
+                RADIOGROUP: 32,
+                RESET: 0,
+                SUBMIT: 0,
+                SWITCH: 32,
+                TAB: 0,
+                TREE: 13,
+                TREEITEM: 13,
+              },
+              k = { CHECKBOX: !0, FILE: !0, OPTION: !0, RADIO: !0 },
+              l = {
+                COLOR: !0,
+                DATE: !0,
+                DATETIME: !0,
+                "DATETIME-LOCAL": !0,
+                EMAIL: !0,
+                MONTH: !0,
+                NUMBER: !0,
+                PASSWORD: !0,
+                RANGE: !0,
+                SEARCH: !0,
+                TEL: !0,
+                TEXT: !0,
+                TEXTAREA: !0,
+                TIME: !0,
+                URL: !0,
+                WEEK: !0,
+              };
+            document.getElementById(id).onclick = function () {
+              window.xp(this);
+              lve && window.logVe(this);
+            };
+            document.getElementById(id).onkeydown = function (d) {
+              var c = d.which || d.keyCode;
+              !c && d.key && (c = g[d.key]);
+              e && 3 == c && (c = 13);
+              if (13 != c && 32 != c) c = !1;
+              else {
+                var a = d.target || d.srcElement;
+                !a.getAttribute && a.parentNode && (a = a.parentNode);
+                var b;
+                if (!(b = "keydown" != d.type)) {
+                  if ((b = "getAttribute" in a))
+                    b = !(
+                      (a.getAttribute("type") || a.tagName).toUpperCase() in l
+                    );
+                  b = !(
+                    b &&
+                    !(
+                      "BUTTON" == a.tagName.toUpperCase() ||
+                      (a.type && "FILE" == a.type.toUpperCase())
+                    ) &&
+                    !a.isContentEditable
+                  );
+                }
+                (b =
+                  b ||
+                  d.ctrlKey ||
+                  d.shiftKey ||
+                  d.altKey ||
+                  d.metaKey ||
+                  ((a.getAttribute("type") || a.tagName).toUpperCase() in k &&
+                    32 == c)) ||
+                  ((b = a.tagName in f) ||
+                    ((b = a.getAttributeNode("tabindex")),
+                    (b = null != b && b.specified)),
+                  (b = !(b && !a.disabled)));
+                if (b) c = !1;
+                else {
+                  b = (
+                    a.getAttribute("role") ||
+                    a.type ||
+                    a.tagName
+                  ).toUpperCase();
+                  var m = !(b in h) && 13 == c;
+                  a = "INPUT" != a.tagName.toUpperCase() || !!a.type;
+                  c = (0 == h[b] % c || m) && a;
+                }
+              }
+              c &&
+                (d.preventDefault(),
+                window.xp(this),
+                lve && window.logVe(this));
+            };
+          }.call(this));
+        })();
+      })();
+      (function () {
+        window.jsl.dh(
+          "accdef_7",
+          "\x3cdiv\x3e\x3cdiv style\x3d\x22padding-bottom:12px;padding-top:0px\x22 class\x3d\x22hwc kCrYT\x22\x3e\x3cdiv class\x3d\x22yStFkb\x22\x3e\x3cdiv class\x3d\x22ZINbbc xpd O9g5cc uUPGi\x22\x3e\x3cdiv class\x3d\x22kCrYT\x22\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3eMelpomene, in Greek religion, \x3cspan class\x3d\x22atOwb UMOHqf\x22\x3eone of the nine Muses, patron of tragedy and lyre playing\x3c/span\x3e. In Greek art her attributes were the tragic mask and the club of Heracles.\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3cdiv class\x3d\x22x54gtf\x22\x3e\x3c/div\x3e\x3cdiv class\x3d\x22kCrYT\x22\x3e\x3ca href\x3d\x22/url?esrc\x3ds\x26amp;q\x3d\x26amp;rct\x3dj\x26amp;sa\x3dU\x26amp;url\x3dhttps://www.britannica.com/topic/Melpomene\x26amp;ved\x3d2ahUKEwjkwN_BpZH4AhW2TWwGHUiCCcgQFXoECAYQGg\x26amp;usg\x3dAOvVaw3JRL14mEujgAXzi0o8thW9\x22\x3e\x3cspan\x3e\x3cdiv class\x3d\x22BNeawe vvjwJb AP7Wnd\x22\x3e\x3cspan class\x3d\x22UMOHqf EDgFbc\x22\x3eMelpomene | Greek Muse | Britannica\x3c/span\x3e\x3c/div\x3e\x3c/span\x3e\x3cspan\x3e\x3cdiv class\x3d\x22BNeawe UPmit AP7Wnd\x22\x3ewww.britannica.com \u203a topic \u203a Melpomene\x3c/div\x3e\x3c/span\x3e\x3c/a\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22P1NWSe\x22\x3e\x3cdiv class\x3d\x22wOMIed nkPlDb\x22\x3e\x3cspan class\x3d\x22JhFlyf VQFmSd\x22\x3e\x3ca class\x3d\x22f4J0H\x22 href\x3d\x22https://www.google.com/search?ei\x3d2f-ZYqTwK7abseMPyISmwAw\x26amp;q\x3dWho+was+Melpomene?\x26amp;sa\x3dX\x26amp;ved\x3d2ahUKEwjkwN_BpZH4AhW2TWwGHUiCCcgQzmd6BAgGEBw\x22\x3eMore results\x3c/a\x3e\x3c/span\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e"
+        );
+      })();
+      google.drty && google.drty(undefined, true);
+    </script>
+  </body>
+</html>

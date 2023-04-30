@@ -1,0 +1,22 @@
+<html>
+    <body>
+        <button onclick="sendRequest()">hello</button>
+        <script>
+            function sendRequest(){
+            var xhr = new XMLHttpRequest();
+            //var url = "http://localhost:8080/displaytv";
+            var url = "https://infernobots.tk/displaytv"
+            xhr.open("POST", url, true);
+            xhr.setRequestHeader("Content-Type", "application/json");
+            xhr.onreadystatechange = function () {
+                if (xhr.readyState === 4 && xhr.status === 200) {
+                    console.log("success");
+                }
+            };
+            var payload = {}; 
+            var data = JSON.stringify(payload);
+            xhr.send(data);
+            }
+        </script>
+    </body>
+</html>

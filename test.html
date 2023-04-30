@@ -1,0 +1,73 @@
+<html>
+    <head></head>
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js" crossorigin="anonymous"> </script>
+<body>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-6">
+                <h3>Quiz Time!</h3>
+                <div id="question"></div>
+                <div class="card text-white bg-dark mb-3">
+                    <div class="card-header">
+                        Poll Question
+                    </div>
+                    <div class="card-body">
+                        <p class="card-text" id="question-question"></p>
+                        <div id="question-answers"></div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <pre id="metadata"></pre>
+            </div>
+        </div>
+    </div>
+
+
+    <button type="button" onclick="myFunction()">Click Me!</button>
+    <p id="test"></p>
+
+
+</body>
+<script>
+    function sendRequest(payload){
+        var xhr = new XMLHttpRequest();
+        var url = "http://infernobots.tk/displaytv";
+        xhr.open("POST", url, true);
+        xhr.setRequestHeader("Content-Type", "application/json");
+        xhr.onreadystatechange = function () {
+            if (xhr.readyState === 4 && xhr.status === 200) {
+                console.log("success");
+            }
+        };
+        var data = JSON.stringify({});
+        xhr.send(data);
+    }
+    function myFunction() {
+    var metadata_text = '{"id":197,"g_id":185,"j":2500.0,"p_c":100,"s":3,"t":"trivium","max_q":10,"q":[{"id":1104,"nth":1,"time":0,"is_a":false,"t":"multiple_choice","q":"The largest building by volume in the world is associated with which corporation?","a":[{"id":3346,"a":"Amazon"},{"id":3347,"a":"Boeing"},{"id":3348,"a":"Kardashian"}]}]}';
+    var metadata = jQuery.parseJSON(metadata_text);
+    sendRequest(metadata);
+    console.log(metadata);
+    questionArray = (metadata.q)[0];
+    question = questionArray["q"];
+    answers = questionArray['a'];
+    
+    answers_html = '';
+    for (const i in answers) {
+        answers_html +=
+        `<button type="button" class="btn btn-primary" style="margin-right: 10px" onclick="button_click('${answers[i]["a"]}','${answers[i]["id"]}')";>${answers[i]["a"]}</button>`;
+        }
+        $("#question-answers").html(answers_html);
+        gURL = "https://www.google.com/search?q=";
+        encodedText = encodeURI(question);
+        $("#question-question").html('<a href="'+gURL+encodedText+'" target="_blank">'+question+'</a>');
+        var str = JSON.stringify(metadata, undefined, 4);      
+    }
+    function button_click(option){
+        
+    }
+    </script>
+</html>
